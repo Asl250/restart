@@ -7,14 +7,9 @@ import success from '../../../public/success.png'
 const Opportunity = () => {
 	return(
 		<div className={'bg-[#141522] text-white pb-10'}>
-			<div className={'md:flex justify-between leading-relaxed md:mx-[5%] py-10'}>
+			<div className={'md:flex justify-between leading-relaxed md:mx-[10%] py-10'}>
 				<h1 className={'text-5xl max-w-3xl max-md:text-3xl leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
-					<span className={'text-green-400'}>РEСТАРТ</span> - БИЗНEС ЭГАЛАРИ, МУТАХАССИСЛАР ВА РИВОЖЛАНИШНИ
-					ИСТАГАНЛАР УЧУН ИМКОНИЯТ</h1>
-				<h1 className={'lg:max-w-md text-xl font-semibold max-lg:w-full max-lg:text-center'}><span
-					className={'text-green-400'}>РEСТАРТ</span> ўсишдан тўхтаган, катта ишлар учун иштиёқи
-					қолмаган, ҳаёти бетартиб бўлиб кетган инсонлар учун ЭНЕРГИЯ манбаи ҳисобланади. 2020 йилдан бери 15
-					та тадбиримизга барча жойлар тўлиб келган. Шунчаки бир марта келсангиз, сабабини тушунасиз</h1>
+					<span className={'text-green-400'}>Video Darslik Sizga Qanday Foyda Beradi?</span>  </h1>
 			</div>
 			
 			<div className={'mx-[10%] mt-10 grid xl:grid-cols-3 lg:grid-cols-2 grid-cols-1 gap-10'}>
@@ -28,15 +23,11 @@ const Opportunity = () => {
 					/>
 					
 					<div className={'space-y-3'}>
-						<p className={'mt-3 font-semibold text-xl mb-5'}>БИЗНEС ЭГАЛАРИ & <br /> ТАДБИРКОРЛАР УЧУН</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
+						<p className={'mt-3 font-semibold text-2xl mb-5'}> Qanaqa qilib uylarni to’g’ri sotib olishni o’rganasiz</p>
+						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Qaysi etajdan uy tanlash kerak?</p>
+						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Qaysi lokatsiyadan uy olish kerak?</p>
+						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Quruvchini ishonchliligini qanaqa qilib tekshirsa bo’ladi? </p>
+						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Qanaqa qilib quruvchi haqida to’liq ma’lumot olsa bo’ladi? </p>
 					</div>
 				
 				
@@ -51,15 +42,11 @@ const Opportunity = () => {
 					/>
 					
 					<div className={'space-y-3'}>
-						<p className={'mt-3 font-semibold text-xl mb-5'}>БИЗНEС ЭГАЛАРИ & <br /> ТАДБИРКОРЛАР УЧУН</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
+						<p className={'mt-3 font-semibold text-2xl mb-5'}>Xujjatlar bilan ishlashni o’rganasiz</p>
+						<p className={'font-semibold max-w-xs text-lg'}>- Quruvchini proyektga oid qanaqa xujjatlari bor yoki qanaqalari yo’q?</p>
+						<p className={'font-semibold max-w-xs text-lg'}>Hammasini to’liq ko’rib chiqa olasiz va to’liq tushuna olasiz. </p>
+						<p className={'font-semibold max-w-xs text-lg'}>Xujjatlarida qandaydir kamchiliklar bo’lsa, darhol sezasiz.</p>
+						<p className={'font-semibold max-w-xs text-lg'}>Undan tashqari, qurilishni qaysi etapi to’g’ri qurilyapti, qayeri noto’g’ri ketyapti, hammasi reja bo’yicha ketyaptimi yoki rejaga o’zgartirish kiritildimi hammasini bila olasiz.</p>
 					</div>
 				
 				
@@ -74,15 +61,11 @@ const Opportunity = () => {
 					/>
 					
 					<div className={'space-y-3'}>
-						<p className={'mt-3 font-semibold text-xl mb-5'}>БИЗНEС ЭГАЛАРИ & <br /> ТАДБИРКОРЛАР УЧУН</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
-						<p className={'font-semibold max-w-xs text-lg'}>•Уй-жой, машина бор. Энди нима қилиш кераклигини
-							билмаётган бўлсангиз</p>
+						<p className={'mt-3 font-semibold text-2xl mb-5'}>Shartnoma bilan ishlashni o’rganasiz.</p>
+						<p className={'font-semibold max-w-xs text-lg'}>- Shartnomada qaysi bandlar bo’lishi kerak? </p>
+						<p className={'font-semibold max-w-xs text-lg'}>- Shartoma tuzayotganda nimalarga e’tibor berish kerak? </p>
+						<p className={'font-semibold max-w-xs text-lg'}>- Quruvchi bilan ertaga tushunmovchiliklar kelib chiqadigan bo’lsa, siz yutib chiqishingiz uchun shartnomaga qanday bandlarni qo’shtirib olishingiz kerak? </p>
+						<p className={'font-semibold max-w-xs text-lg'}>Shu bo’yicha to’liq ma’lumotlarga ega bo’lasiz.</p>
 					</div>
 				
 				

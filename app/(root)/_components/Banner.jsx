@@ -28,9 +28,8 @@ const Banner = () => {
 					</div>
 				</div>
 				<div className={'xl:z-50 text-white xl:absolute xl:ml-[10%] max-xl:w-full max-xl:text-center max-xl:mx-auto'}>
-					<h1 className={'w-full max-xl:justify-center xl:max-w-2xl my-10 text-5xl font-semibold text-center leading-normal'}>ҲАЁТИНГИЗНИ ЎЗИНГИЗ
-						ЛОЙИҚ БЎЛГАН ДАРАЖАГА ОЛИБ ЧИҚИНГ!</h1>
-					<p className={'max-xl:mx-[10%] xl:max-w-2xl text-center text-lg max-xl:justify-center'}>Чўққини кўзлаган тадбиркор, яшашга иштиёқни қайтариш ва ҳаётини тартибга солишни истаган инсонлар учун 5 кунлик жонли коучинг - РEСТАРТ</p>
+					<h1 className={'w-full max-xl:justify-center xl:max-w-2xl my-10 text-5xl font-semibold text-center leading-normal'}>UY SOTIB OLISHDA ALDANIB QOLMANG!</h1>
+					<p className={'max-xl:mx-[10%] xl:max-w-2xl text-center text-lg max-xl:justify-center'}>2024-yilda uy sotib olishdan oldin nimalarga e’tibor berishingiz kerak? Quyidagi videoni ko’ring va batafsil bilib oling.</p>
 					<div className={'flex justify-center mt-3 mb-6'}>
 						<Image src={star} alt={'star'} width={20} height={20}/>
 						<Image src={star} alt={'star'} width={20} height={20}/>

@@ -4,12 +4,9 @@ import vector from '../../../public/vector.svg'
 
 const Video = () => {
 	return (
-		<div className={'bg-[#f3f4f6] pb-16'}>
-			<h1 className={'w-full pt-10 text-center text-5xl font-semibold'}>
-				<span className={'text-green-400'}>РEСТАРТ {""}</span>
-				ҲАЁТИНГИЗНИ ҚАНДАЙ
-				<br/>
-				ЎЗГАРТИРИШИНИ КЎРИНГ
+		<div className={'bg-[#f3f4f6] pb-24 pt-10'}>
+			<h1 className={'w-full pt-10 text-center text-5xl font-semibold pb-16'}>
+				<span className={'text-green-400'}>UY SOTIB OLISHDA ALDANIB QOLMANG!</span>
 			</h1>
 			<div className={'mx-[10%] mt-5 grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-10'}>
 				

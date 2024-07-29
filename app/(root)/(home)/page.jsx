@@ -1,9 +1,9 @@
-import Another from '@/app/(root)/_components/Another'
+import AboutMe from '@/app/(root)/_components/AboutMe'
 import Banner from '@/app/(root)/_components/Banner'
 import Days from '@/app/(root)/_components/Days'
-import Help from '@/app/(root)/_components/Help'
+import Eyes from '@/app/(root)/_components/Eyes'
+import FAQ from '@/app/(root)/_components/FAQ'
 import Opportunity from '@/app/(root)/_components/Opportunity'
-import Teacher from '@/app/(root)/_components/Teacher'
 import Video from '@/app/(root)/_components/Video'
 
 const Home = () => {
@@ -12,10 +12,10 @@ const Home = () => {
 			<Banner/>
 			<Video/>
 			<Opportunity/>
-			<Teacher/>
-			<Another/>
+			<AboutMe/>
 			<Days/>
-			<Help/>
+			<Eyes/>
+			<FAQ/>
 		</div>
 	)
 }
