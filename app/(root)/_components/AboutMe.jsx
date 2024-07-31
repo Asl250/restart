@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import photo from '../../../public/about.jpg'
 
 const AboutMe = () => {
 	return (
