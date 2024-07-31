@@ -20,7 +20,7 @@ const FAQ = ( ) => {
 					</AccordionContent>
 				</AccordionItem>
 				<AccordionItem value="item-2" className={'mb-5  border-[2px] rounded-lg p-3'}>
-					<AccordionTrigger className={'text-xl text-start  max-md:text-lg max-sm:text-lg'}>Yangi darsliklar ham qo’shiladimi? </AccordionTrigger>
+					<AccordionTrigger className={'text-xl text-start max-md:text-lg max-sm:text-lg'}>Yangi darsliklar ham qo’shiladimi? </AccordionTrigger>
 					<AccordionContent className={'text-xl max-md:text-lg'}>
 						Ha! Har oyda bir marta qurilish oid kuchli spikerlarni chaqiramiz, ma’lumotlar olamiz
 						<br />
@@ -30,13 +30,13 @@ const FAQ = ( ) => {
 				</AccordionItem>
 				<AccordionItem value="item-3" className={'mb-5 border-[2px] rounded-lg p-3 text-start'}>
 					<AccordionTrigger className={'text-xl max-md:text-lg max-sm:text-lg text-start'}>Barcha darslar darhol ochiladimi? </AccordionTrigger>
-					<AccordionContent className={'text-xl max-md:text-sm'}>
+					<AccordionContent className={'text-xl max-md:text-lg'}>
 						Ha! Yopiq telegram kanalga qo’shilishingiz bilanoq barcha darslarni ko’rish imkoniyatiga ega bo’lasiz
 					</AccordionContent>
 				</AccordionItem>
 				<AccordionItem value="item-4" className={'mb-5 border-[2px] rounded-lg p-3'}>
 					<AccordionTrigger className={'text-xl max-md:text-lg max-sm:text-lg text-start'}>Bu darsliklardan qanday foyda olaman?</AccordionTrigger>
-					<AccordionContent className={'text-xl max-md:text-sm'}>
+					<AccordionContent className={'text-xl max-md:text-lg'}>
 						Ushbu darsliklar orqali ham ko’chmas mulk bo’yicha savodxonligingiz oshadi ham yuridik tomonlama
 						maslahatlar beriladi.
 						<br />

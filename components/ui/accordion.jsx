@@ -22,7 +22,7 @@ const AccordionTrigger = React.forwardRef(({ className, children, ...props }, re
         className
       )}
       {...props}>
-        <Plus className="h-10 w-10 max-lg:pt-1 max-md:h-7 hover:bg-orange-500 duration-300 rounded-full max-md:w-7 mr-5" />
+        <Plus className="h-10 w-10 max-lg:pt-1 max-md:h-7 duration-300 rounded-full max-md:w-7 mr-5" />
         {children }
     </AccordionPrimitive.Trigger>
   </AccordionPrimitive.Header>
