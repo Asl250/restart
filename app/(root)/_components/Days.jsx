@@ -22,6 +22,7 @@ const Days = () => {
 				</div>
 				
 				<div>
+					
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 h-full'}>
 						<div className={'text-xl block'}>
 							<p className={'text-2xl text-[#feebbd]'}>2. 24/7 Savollaringizga Javob olasiz</p>
