@@ -7,7 +7,7 @@ const AboutMe = () => {
 			<div className={' mb-5'}>
 				<Image className={'w-[50%] max-lg:w-[90%] mx-auto aspect-square rounded-full'} src={'/about1.JPG'} alt={'about1'} width={450} height={450} />
 			</div>
-			<div className={'inter font-[18px]  text-start'}>
+			<div className={'inter font-[18px] text-start'}>
 				<div className={"px-[200px] max-lg:px-[50px]"}>
 					<p className={'text-lg'}>
 						Assalomu Alaykum, Ismim Behzod Umarov.

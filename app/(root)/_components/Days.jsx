@@ -11,7 +11,7 @@ const Days = () => {
 				
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
-						<div className={'text-xl space-y-10'}>
+						<div className={'text-lg space-y-10'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Yopiq Telergam kanalga qo’shilasiz</p>
 							<FaTelegramPlane className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
 							<p> Ushbu kanalga:</p>
@@ -27,7 +27,7 @@ const Days = () => {
 					
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 h-full'}>
 						
-						<div className={'text-xl block'}>
+						<div className={'text-lg block'}>
 							<p className={'text-3xl text-[#feebbd] pb-5 text-center'}> 24/7 Savollaringizga Javob olasiz</p>
 							<Headset className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
 							
@@ -38,7 +38,7 @@ const Days = () => {
 				</div>
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
-						<div className={'text-xl space-y-7 pt-5'}>
+						<div className={'text-lg space-y-7 pt-5'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Bepul Konsultatsiyalarda qatnashasiz</p>
 							<Video className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
 							<p> Har oyda bir marta yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz</p>
@@ -50,7 +50,7 @@ const Days = () => {
 				
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
-						<div className={'text-xl space-y-7'}>
+						<div className={'text-lg space-y-7'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Uy sotib olishda chegirmaga ega bo’lasiz</p>
 							<BadgeDollarSign className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
 							<p> Yopiq telegram kanalimizda ishonchli qurilish kompaniyalar ro’yxatini berib
@@ -63,7 +63,7 @@ const Days = () => {
 				
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
-						<div className={'text-xl space-y-7'}>
+						<div className={'text-lg space-y-7'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Bonus darslarga ega bo’lasiz</p>
 							<BookOpenCheck className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
 							<p> Har oyda bir marta qurilishga oid kuchli spikerlarni chaqiramiz, ma’lumotlar
@@ -77,7 +77,7 @@ const Days = () => {
 				
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
-						<div className={'text-xl space-y-3'}>
+						<div className={'text-lg space-y-3'}>
 							<p className={'text-2xl text-[#feebbd] text-center  '}>Qiziqarli o’yinlarda ishtirok
 								etasiz</p>
 							<Gamepad2 className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
