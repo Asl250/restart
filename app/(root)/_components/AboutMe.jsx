@@ -4,8 +4,8 @@ const AboutMe = () => {
 	return (
 		<div className={'my-10'}>
 			
-			<div className="flex w-full mx-[55%] xl:mx-[30%] lg:mx-[25%] max-lg:mx-[20%] max-md:mx-[10%] max-sm:mx-0">
-				<img src='/about.jpg' alt='logo' className='' />
+			<div className="rounded-full">
+				<Image src='/about.jpg' alt='logo' className='w-[500px] mx-auto my-10'  width={500} height={500}/>
 			</div>
 	<div className={'inter font-[18px] text-start'}>
 		<div className={'px-[200px] max-lg:px-[50px]'}>
