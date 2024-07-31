@@ -11,8 +11,8 @@ const Home = () => {
 		<div className={'overflow-x-hidden overflow-y-hidden'}>
 			<Banner/>
 			{/*<Video/>*/}
-			<Opportunity/>
 			<AboutMe/>
+			<Opportunity/>
 			<Days/>
 			<Eyes/>
 			<FAQ/>
