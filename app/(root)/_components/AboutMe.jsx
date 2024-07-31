@@ -9,7 +9,8 @@ const AboutMe = () => {
 			</div>
 			<div className={'inter font-[18px]  text-start'}>
 				<div className={"px-[200px] max-lg:px-[50px]"}>
-					<p className={'text-xl font-[18px]'}>Assalomu Alaykum, Ismim Behzod Umarov.
+					<p className={'text-lg'}>
+						Assalomu Alaykum, Ismim Behzod Umarov.
 						<br/><br/>
 						Ko’chmas mulk savdosi bo’yicha 4 yillik tajribaga egaman.
 						<br/><br/>
@@ -65,7 +66,8 @@ const AboutMe = () => {
 				<div className={'text-start'}>
 					
 					<div className={'px-[200px] max-lg:px-[50px]'}>
-						<p className={'text-xl font-[18px]'}>Kerakli xujjatlariga…
+						<p className={'text-lg'}>
+							Kerakli xujjatlariga…
 							<br/><br/>
 							Shartnoma ko’proq quruvchini foydasigami yoki mijozni foydasiga tuzilganmi?
 							<br/><br/>
