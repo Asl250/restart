@@ -1,65 +1,66 @@
 import Image from 'next/image'
+import photo from '../../../public/about.jpg'
 
 const AboutMe = () => {
 	return (
 		<div className={'my-10'}>
 			
 			<div className="rounded-full">
-				<Image src='/about.jpg' alt='logo' className='w-[500px] mx-auto my-10'  width={500} height={500}/>
+				<Image src={photo} alt='logo' className='w-[500px] mx-auto my-10'  width={500} height={500}/>
 			</div>
-	<div className={'inter font-[18px] text-start'}>
-		<div className={'px-[200px] max-lg:px-[50px]'}>
-					<p className={'text-lg'}>
-						Assalomu Alaykum, Ismim Behzod Umarov.
-						<br/><br/>
-						Ko’chmas mulk savdosi bo’yicha 4 yillik tajribaga egaman.
-						<br/><br/>
-						Ushbu vaqt davomida 100 dan ortiq uy sotib olmoqchi bo’lganlar bilan gaplashgan bo’lsam…
-						<br/><br/>
-						Ko’pchilikda deyarli bir xil muammoni kuzatardim.
-						<br/><br/>
-						10-15 yil davomida yig’ib-terib endi uy olaman deganda aldanib qolishlik…
-						<br/><br/>
-						Ishonchsiz quruvchini tanlab qo’yishlik…
-						<br/><br/>
-						To’g’ri shartnoma qilmaslik…
-						<br/><br/>
-						Uylarni vaqtida bitmasligi…
+			<div className={'inter font-[18px] text-start'}>
+				<div className={'px-[200px] max-lg:px-[50px]'}>
+							<p className={'text-lg'}>
+								Assalomu Alaykum, Ismim Behzod Umarov.
+								<br/><br/>
+								Ko’chmas mulk savdosi bo’yicha 4 yillik tajribaga egaman.
+								<br/><br/>
+								Ushbu vaqt davomida 100 dan ortiq uy sotib olmoqchi bo’lganlar bilan gaplashgan bo’lsam…
+								<br/><br/>
+								Ko’pchilikda deyarli bir xil muammoni kuzatardim.
+								<br/><br/>
+								10-15 yil davomida yig’ib-terib endi uy olaman deganda aldanib qolishlik…
+								<br/><br/>
+								Ishonchsiz quruvchini tanlab qo’yishlik…
+								<br/><br/>
+								To’g’ri shartnoma qilmaslik…
+								<br/><br/>
+								Uylarni vaqtida bitmasligi…
+								
+								<br/><br/>
+								Quruvchini katta va’dalariga ishonib qolish va hokazo.
+								<br/><br/>
+								Sanaydigan bo’lsam, muammolar juda ham ko’p.
+								<br/><br/>
+								Aksariyat odamlarni bu muammolarga uchrashini sababi…
+								<br/><br/>
+								Bu - ularni ko’chmas mulk bo’yicha yetarlicha bilimga ega emasliklaridir.
+								<br/><br/>
+								Bilimlari yo’qligi uchun esa…
+								<br/><br/>
+								“Endi mani ham uyim bo’ladi” deb yaxshi niyatlarda yeg’gan
+								<br/><br/>
+								$60,000…
+								<br/><br/>
+								$80,000…
+								<br/><br/>
+								Kerak bo’lsa $100,000 lariga ham aldanib qolishadi.
+								<br/><br/>
+								Bunday holatlarni juda ko’p kuzatdim.
+								<br/><br/>
+								Bilasizmi, ko’pchilik uy sotib olishdan oldin asosan nimaga ko’proq e’tibor berishadi?
+								<br/><br/>
+								Narxiga!
+								<br/><br/>
+								Naxi qulay bo’lsa tezda dogovor qilib yuborishadi!
+								<br/><br/>
+								
+								Uyni tarixiga…
+							
+							</p>
+						</div>
 						
-						<br/><br/>
-						Quruvchini katta va’dalariga ishonib qolish va hokazo.
-						<br/><br/>
-						Sanaydigan bo’lsam, muammolar juda ham ko’p.
-						<br/><br/>
-						Aksariyat odamlarni bu muammolarga uchrashini sababi…
-						<br/><br/>
-						Bu - ularni ko’chmas mulk bo’yicha yetarlicha bilimga ega emasliklaridir.
-						<br/><br/>
-						Bilimlari yo’qligi uchun esa…
-						<br/><br/>
-						“Endi mani ham uyim bo’ladi” deb yaxshi niyatlarda yeg’gan
-						<br/><br/>
-						$60,000…
-						<br/><br/>
-						$80,000…
-						<br/><br/>
-						Kerak bo’lsa $100,000 lariga ham aldanib qolishadi.
-						<br/><br/>
-						Bunday holatlarni juda ko’p kuzatdim.
-						<br/><br/>
-						Bilasizmi, ko’pchilik uy sotib olishdan oldin asosan nimaga ko’proq e’tibor berishadi?
-						<br/><br/>
-						Narxiga!
-						<br/><br/>
-						Naxi qulay bo’lsa tezda dogovor qilib yuborishadi!
-						<br/><br/>
-						
-						Uyni tarixiga…
-					
-					</p>
-				</div>
-				
-			</div>
+					</div>
 			
 			
 			<div className={'mt-7'}>

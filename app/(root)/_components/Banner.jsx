@@ -1,10 +1,3 @@
-import { Button } from '@/components/ui/button'
-import Image from 'next/image'
-import logo from '/public/logo.png'
-import banner from '/public/banner.png'
-import star from '/public/star.svg'
-
-
 const Banner = () => {
 	return (
 		<div className={'bg-black w-full py-16'}>
