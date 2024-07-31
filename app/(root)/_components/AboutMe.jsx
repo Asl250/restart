@@ -6,7 +6,7 @@ const AboutMe = () => {
 		<div className={'my-10'}>
 			
 			<div className="rounded-full">
-				<Image src={photo} alt='logo' className='w-[500px] mx-auto my-10'  width={500} height={500}/>
+				<Image src={'/about.jpg'} alt='logo' className='w-[500px] mx-auto my-10'  width={500} height={500}/>
 			</div>
 			<div className={'inter font-[18px] text-start'}>
 				<div className={'px-[200px] max-lg:px-[50px]'}>
