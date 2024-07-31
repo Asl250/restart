@@ -4,11 +4,11 @@ const AboutMe = () => {
 	return (
 		<div className={'my-10'}>
 			
-			<div className={' mb-5'}>
-				<Image className={'w-[50%] max-lg:w-[90%] mx-auto aspect-square rounded-full'} src={'/about1.JPG'} alt={'about1'} width={450} height={450} />
+			<div className="flex w-full mx-[55%] xl:mx-[30%] lg:mx-[25%] max-lg:mx-[20%] max-md:mx-[10%] max-sm:mx-0">
+				<img src='/about.jpg' alt='logo' className='' />
 			</div>
-			<div className={'inter font-[18px] text-start'}>
-				<div className={"px-[200px] max-lg:px-[50px]"}>
+	<div className={'inter font-[18px] text-start'}>
+		<div className={'px-[200px] max-lg:px-[50px]'}>
 					<p className={'text-lg'}>
 						Assalomu Alaykum, Ismim Behzod Umarov.
 						<br/><br/>
