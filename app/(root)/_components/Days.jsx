@@ -7,15 +7,8 @@ const Days = () => {
 	return (
 		<div className={'mx-[10%]'}>
 			<h1 className={'w-full pt-10 text-center text-5xl font-semibold'}>
-				<span className={'text-green-400'}>Bugunoq Video darsliklarni olib, quyidagi bonuslarga ham Bepul ega bo’lasiz</span>
+				<span className={'inter'}>Bugunoq Video darsliklarni olib, quyidagi bonuslarga ham Bepul ega bo’lasiz</span>
 			</h1>
-			<Image
-				src={day}
-				alt={'days'}
-				width={500}
-				height={500}
-				className={'hidden max-lg:block mx-auto my-5'}
-			/>
 			<div className={'grid grid-cols-2 max-md:grid-cols-1 gap-10 mt-10'}>
 				
 				<div>
