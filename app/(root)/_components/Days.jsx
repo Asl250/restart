@@ -4,7 +4,7 @@ import { FaTelegramPlane } from 'react-icons/fa'
 const Days = () => {
 	return (
 		<div className={'px-[10%] bg-black w-full h-full pb-10'}>
-			<h1 className={'m-0 pt-10 text-center text-4xl  max-md:text-3xl pb-10'}>
+			<h1 className={'py-24 text-center text-4xl  max-md:text-3xl'}>
 				<span className={'inter text-white font-semibold'}>Bugunoq Video darsliklarni olib, quyidagi <span className={'text-[#feebbd]'}> bonuslarga ham Bepul</span> ega bo’lasiz</span>
 			</h1>
 			<div className={'grid grid-cols-2 max-md:grid-cols-1 gap-10 mb-0'}>
