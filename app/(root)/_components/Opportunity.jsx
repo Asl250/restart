@@ -1,21 +1,17 @@
-import { Button } from '@/components/ui/button'
 import Image from 'next/image'
-import house from '../../../public/house.png'
-import vint from '../../../public/vint.png'
-import success from '../../../public/success.png'
 
 const Opportunity = () => {
 	return(
-		<div className={'bg-[#141522] text-white pb-10'}>
+		<div className={'bg-black text-white pb-10'}>
 			<div className={'md:flex justify-between leading-relaxed md:mx-[10%] py-10'}>
-				<h1 className={'text-5xl max-w-3xl max-md:text-3xl leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
-					<span className={'text-green-400'}>Video Darslik Sizga Qanday Foyda Beradi?</span></h1>
+				<h1 className={'] text-5xl max-w-3xl max-md:text-3xl leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
+					<span className={'text-[#feebbd]'}>Video Darslik Sizga Qanday Foyda Beradi?</span></h1>
 			</div>
 			
 			<div className={'mx-[10%] mt-10 grid xl:grid-cols-3 lg:grid-cols-2 grid-cols-1 gap-10'}>
-				<div className={'bg-black rounded-lg p-5'}>
+				<div className={'bg-black rounded-lg p-5 border border-[#feebbd]'}>
 					<h1 className={'text-2xl'}>Modul 1</h1>
-					<hr className={'w-full p-px'}/>
+					<hr className={'w-full p-px'} />
 					<div className={'space-y-3 '}>
 						<p className={'mt-3 font-semibold text-2xl mb-5 text-[#feebbd]'}> Qanaqa qilib uylarni to’g’ri sotib olishni o’rganasiz</p>
 						<p className={'max-w-xs text-lg pt-4'}>- Qaysi etajdan uy tanlash kerak?</p>
@@ -28,7 +24,7 @@ const Opportunity = () => {
 				
 				</div>
 				
-				<div className={'bg-black rounded-lg p-5'}>
+				<div className={'bg-black rounded-lg p-5 border border-[#feebbd]'}>
 					<h1 className={'text-2xl'}>Modul 2</h1>
 					<hr className={'w-full p-px'} />
 					<div className={'space-y-7'}>
@@ -48,7 +44,7 @@ const Opportunity = () => {
 				
 				</div>
 				
-				<div className={'bg-black rounded-lg p-5'}>
+				<div className={'bg-black rounded-lg p-5 border border-[#feebbd]'}>
 					<h1 className={'text-2xl'}>Modul 3</h1>
 					<hr className={'w-full p-px'} />
 					<div className={'space-y-7'}>
