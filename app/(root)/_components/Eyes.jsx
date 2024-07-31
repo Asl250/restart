@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import photo from '../../../public/token.png'
 
 const Eyes = () => {
 	return (
@@ -7,7 +8,7 @@ const Eyes = () => {
 			<h1 className={'w-full text-2xl text-center font-semibold text-white mt-4'}>nomli to’lovingizni 100% to’liq<br className={'hidden max-md:block'}/> holda qaytarib berish kafolati</h1>
 			<div className={'mt-14 mx-[10%] text-start grid lg:grid-cols-2'}>
 				<div className={'max-lg:w-full max-lg:mx-[10%] max-sm:mx-0'}>
-					<Image src={'/token.png'} alt={'token'} width={500} height={300}/>
+					<Image src={photo} alt={'token'} width={500} height={300}/>
 				</div>
 				<div className={' space-y-5 py-5'}>
 					<p className={'text-2xl w-full text-white'}>Ushbu darslarni yozish uchun ko’plab o’z ishini
