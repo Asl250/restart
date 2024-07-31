@@ -10,7 +10,7 @@ const Home = () => {
 	return (
 		<div className={'overflow-x-hidden overflow-y-hidden'}>
 			<Banner/>
-			<Video/>
+			{/*<Video/>*/}
 			<Opportunity/>
 			<AboutMe/>
 			<Days/>
