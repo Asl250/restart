@@ -28,6 +28,7 @@ const Opportunity = () => {
 						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Qaysi lokatsiyadan uy olish kerak?</p>
 						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Quruvchini ishonchliligini qanaqa qilib tekshirsa bo’ladi? </p>
 						<p className={'font-semibold max-w-xs text-xl pt-4'}>- Qanaqa qilib quruvchi haqida to’liq ma’lumot olsa bo’ladi? </p>
+						<p className={'font-semibold max-w-xs text-xl pt-4'}>Shuni hammasini bilib olasiz.</p>
 					</div>
 				
 				
