@@ -11,7 +11,7 @@ const Banner = () => {
 			
 			
 			<div>
-				<div className={' w-full text-center text-white '}>
+				<div className={'w-full text-center text-white '}>
 					<h1 className={'text-5xl font-semibold text-center leading-normal'}>UY SOTIB OLISHDA <br/> ALDANIB QOLMANG!</h1>
 					<p className={' text-center text-lg max-xl:justify-center'}>2024-yilda uy sotib olishdan oldin nimalarga <br/> e’tibor berishingiz kerak? Quyidagi videoni ko’ring va batafsil bilib oling.</p>
 
