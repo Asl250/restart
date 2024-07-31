@@ -1,4 +1,5 @@
-import { Headset } from 'lucide-react';
+import { Headset, Video, BadgeDollarSign, BookOpenCheck, Gamepad2 } from 'lucide-react';
+import { FaTelegramPlane } from 'react-icons/fa'
 
 const Days = () => {
 	return (
@@ -11,8 +12,9 @@ const Days = () => {
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
 						<div className={'text-xl space-y-10'}>
-							<p className={'text-2xl text-[#feebbd]'}>1. Yopiq Telergam kanalga qo’shilasiz</p>
-							<p>Ushbu kanalga:</p>
+							<p className={'text-2xl text-[#feebbd] text-center'}>Yopiq Telergam kanalga qo’shilasiz</p>
+							<FaTelegramPlane className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
+							<p>• Ushbu kanalga:</p>
 							<p>• Qurilishga oid yangiliklar </p>
 							<p>• Maslahatlar </p>
 							<p>• Va endi katlavan paytidagi ishonchli qurilish <br /> kompaniyalar ro’yxatini tashlab
@@ -24,11 +26,12 @@ const Days = () => {
 				<div>
 					
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 h-full'}>
-						<Headset className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
 						
 						<div className={'text-xl block'}>
-							<p className={'text-2xl text-[#feebbd] pb-5'}>2. 24/7 Savollaringizga Javob olasiz</p>
-							<p>• Sizni istalgan savollaringizga javob berib turadigan support xizmatimiz bo’ladi.</p>
+							<p className={'text-3xl text-[#feebbd] pb-5 text-center'}> 24/7 Savollaringizga Javob olasiz</p>
+							<Headset className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
+							
+							<p className={'text-center'}>Sizni istalgan savollaringizga javob berib turadigan support xizmatimiz bo’ladi.</p>
 						</div>
 					
 					</div>
@@ -36,8 +39,9 @@ const Days = () => {
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl space-y-7 pt-5'}>
-							<p className={'text-2xl text-[#feebbd]'}>3. Bepul Konsultatsiyalarda qatnashasiz</p>
-							<p>• Har oyda bir marta yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz.а</p>
+							<p className={'text-2xl text-[#feebbd] text-center'}>Bepul Konsultatsiyalarda qatnashasiz</p>
+							<Video className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
+							<p>• Har oyda bir marta yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz</p>
 							<p>• U yerda siz o’z ishini mutaxassilaridan va yuristlardan savollaringizga javob
 								olishingiz mumkin bo’ladi.</p>
 						</div>
@@ -47,7 +51,8 @@ const Days = () => {
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl space-y-7'}>
-							<p className={'text-2xl text-[#feebbd]'}>4. Uy sotib olishda chegirmaga ega bo’lasiz</p>
+							<p className={'text-2xl text-[#feebbd] text-center'}>Uy sotib olishda chegirmaga ega bo’lasiz</p>
+							<BadgeDollarSign className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
 							<p>• Yopiq telegram kanalimizda ishonchli qurilish kompaniyalar ro’yxatini berib
 								boramiz.</p>
 							<p>• Agar siz bizni nomimiz orqali ushbu kompaniyalardan uy xarid qiladigan bo’lsangiz, </p>
@@ -59,8 +64,8 @@ const Days = () => {
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl space-y-7'}>
-							<p className={'text-2xl text-[#feebbd]'}>5. Bonus darslarga ega bo’lasiz</p>
-							
+							<p className={'text-2xl text-[#feebbd] text-center'}>Bonus darslarga ega bo’lasiz</p>
+							<BookOpenCheck className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
 							<p>• Har oyda bir marta qurilishga oid kuchli spikerlarni chaqiramiz, ma’lumotlar
 								olamiz </p>
 							<p>• Va ushbu ma’lumotlarni yopiq telegram kanalga yuklab boramiz. </p>
@@ -73,16 +78,17 @@ const Days = () => {
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
 						<div className={'text-xl space-y-3'}>
-							<p className={'text-2xl text-[#feebbd]'}>6. Qiziqarli o’yinlarda ishtirok etasiz</p>
+							<p className={'text-2xl text-[#feebbd] text-center  '}>Qiziqarli o’yinlarda ishtirok etasiz</p>
+							<Gamepad2 className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
 							<p>• Darslarimizni ko’rganingizdan so’ng, bemalol ishonchli uylar ro’yxatini tuzib olib,
 								o’zingiz xarid qilishingiz mumkin.</p>
-							<p>• Yokida buni bizga ham topshirishingiz mumkin. </p>
-							<p>• Biz sizga o’zimiz hammasini ko’rib beramiz.</p>
-							<p>• Bu xizmatimiz uchun qo’shimcha to’lovlar mavjud.</p>
-							<p>• Darslarni xarid qilib, telegram guruhga qo’shiladigan bo’lsangiz, biz har oy 5ta
+							<p> • Yokida buni bizga ham topshirishingiz mumkin. </p>
+							<p> • Biz sizga o’zimiz hammasini ko’rib beramiz.</p>
+							<p> • Bu xizmatimiz uchun qo’shimcha to’lovlar mavjud.</p>
+							<p> • Darslarni xarid qilib, telegram guruhga qo’shiladigan bo’lsangiz, biz har oy 5ta
 								ixtiyor kishini tanlab olamiz </p>
-							<p>Va ularga uyni ko’rib berish xizmatimizni bepulga taqdim etamiz. </p>
-							<p>Bular orasida albatta siz ham bo’lishingiz mumkin.</p>
+							<p>• Va ularga uyni ko’rib berish xizmatimizni bepulga taqdim etamiz. </p>
+							<p>• Bular orasida albatta siz ham bo’lishingiz mumkin.</p>
 						</div>
 					</div>
 				
