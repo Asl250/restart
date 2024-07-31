@@ -8,7 +8,7 @@ const Eyes = () => {
 					alt={'token'} width={500} height={300} className={'w-[65%] mb-10 max-lg:mx-auto'} />
 			</div>
 			
-			<h1 className={'w-full text-[#feebbd] inter text-7xl max-md:text-5xl text-center'}>“Ko’zlarimga
+			<h1 className={'w-full font-semibold text-[#feebbd] inter text-7xl max-md:text-5xl text-center'}>“Ko’zlarimga
 				Ishonmayman”</h1>
 			<h1 className={'w-full inter text-2xl text-center text-white mt-4'}>nomli to’lovingizni 100%
 				to’liq<br className={'hidden max-md:block'} /> holda qaytarib berish kafolati</h1>
