@@ -7,7 +7,7 @@ import star from '/public/star.svg'
 
 const Banner = () => {
 	return (
-		<div className={'bg-[#141522] w-full py-4'}>
+		<div className={'bg-[#141522] w-full py-16'}>
 			
 			
 			<div>

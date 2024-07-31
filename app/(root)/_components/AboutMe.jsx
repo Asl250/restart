@@ -4,11 +4,11 @@ const AboutMe = () => {
 	return (
 		<div className={'my-10'}>
 			
-			<div className={'hidden max-lg:block mb-5'}>
-				<Image className={'w-[90%] mx-auto'} src={'/about1.JPG'} alt={'about1'} width={450} height={450} />
+			<div className={' mb-5'}>
+				<Image className={'w-[50%] max-lg:w-[90%] mx-auto aspect-square rounded-full'} src={'/about1.JPG'} alt={'about1'} width={450} height={450} />
 			</div>
-			<div className={'flex justify-evenly max-lg:w-full max-lg:text-center'}>
-				<div className={'max-w-2xl'}>
+			<div className={'inter font-[18px] w-full text-center'}>
+				<div className={"px-[200px] max-lg:px-[50px]"}>
 					<h1 className={'text-3xl font-semibold mb-5'}>Assalomu Alaykum, Ismim Behzod Umarov.</h1>
 					<p className={'text-xl leading-[2]'}>Ko’chmas mulk savdosi bo’yicha 4 yillik tajribaga egaman.
 						Ushbu vaqt davomida 100 dan ortiq uy sotib olmoqchi bo’lganlar bilan gaplashgan bo’lsam…
@@ -34,19 +34,13 @@ const AboutMe = () => {
 					</p>
 				</div>
 				
-				<div className={'hidden lg:flex'}>
-					<Image src={'/about1.JPG'} alt={'about1'} width={450} height={450} />
-				</div>
 			</div>
 			
 			
 			<div className={'mt-24'}>
-				<div className={'flex justify-evenly max-lg:w-full max-lg:text-center'}>
-					<div className={'hidden lg:flex'}>
-						<Image src={'/about2.JPEG'} alt={'about2'} width={450} height={450} />
-					</div>
+				<div className={'w-full text-center'}>
 					
-					<div className={'xl:max-w-2xl lg:max-w-xl max-lg:max-w-2xl'}>
+					<div className={'px-[200px] max-lg:px-[50px]'}>
 						<h1 className={'text-3xl font-semibold mb-5'}>Kerakli xujjatlariga…</h1>
 						<p className={'text-xl  leading-[2.5]'}>Shartnoma ko’proq quruvchini foydasigami yoki mijozni foydasiga tuzilganmi?
 							
