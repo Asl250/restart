@@ -72,11 +72,6 @@ const Opportunity = () => {
 				
 				</div>
 			</div>
-			<div className={'flex justify-center mt-16'}>
-				<Button className={'mx-auto justify-center bg-green-500 text-xl rounded-full px-[10rem] py-8'}>Ishtirok
-					etish
-				</Button>
-			</div>
 		</div>
 	)
 }
