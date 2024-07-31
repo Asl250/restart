@@ -4,7 +4,7 @@ const Opportunity = () => {
 	return(
 		<div className={'bg-black text-white pb-10'}>
 			<div className={'md:flex justify-between leading-relaxed md:mx-[10%] py-10'}>
-				<h1 className={'] text-5xl max-w-3xl max-md:text-3xl leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
+				<h1 className={' text-5xl max-w-3xl max-md:text-3xl leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
 					<span className={'text-[#feebbd]'}>Video Darslik Sizga Qanday Foyda Beradi?</span></h1>
 			</div>
 			

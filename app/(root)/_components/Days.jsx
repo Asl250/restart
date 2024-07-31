@@ -5,16 +5,16 @@ import day from '../../../public/day.jpg'
 
 const Days = () => {
 	return (
-		<div className={'mx-[10%]'}>
-			<h1 className={'w-full pt-10 text-center text-5xl font-semibold'}>
-				<span className={'inter'}>Bugunoq Video darsliklarni olib, quyidagi bonuslarga ham Bepul ega bo’lasiz</span>
+		<div className={'px-[10%] bg-black w-full h-full pb-10 pt-24'}>
+			<h1 className={'m-0 pt-10 text-center text-5xl pb-10'}>
+				<span className={'inter text-[#feebbd]'}>Bugunoq Video darsliklarni olib, quyidagi bonuslarga ham Bepul ega bo’lasiz</span>
 			</h1>
-			<div className={'grid grid-cols-2 max-md:grid-cols-1 gap-10 mt-10'}>
+			<div className={'grid grid-cols-2 max-md:grid-cols-1 gap-10 mb-0'}>
 				
 				<div>
-					<div className={'bg-gradient-to-tr from-[#00C9FF] to-[#92FE9D] p-5 flex'}>
+					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
 						<div className={'text-xl space-y-10'}>
-							<p className={'text-2xl'}>1. Yopiq Telergam kanalga qo’shilasiz</p>
+							<p className={'text-2xl text-[#feebbd]'}>1. Yopiq Telergam kanalga qo’shilasiz</p>
 							<p>Ushbu kanalga:</p>
 							<p>• Qurilishga oid yangiliklar </p>
 							<p>• Maslahatlar </p>
@@ -25,17 +25,17 @@ const Days = () => {
 				</div>
 				
 				<div>
-					<div className={'bg-gradient-to-tr from-[#00C9FF] to-[#92FE9D] p-5 flex h-full'}>
+					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl'}>
-							<p className={'text-2xl'}>2. 24/7 Savollaringizga Javob olasiz</p>
+							<p className={'text-2xl text-[#feebbd]'}>2. 24/7 Savollaringizga Javob olasiz</p>
 							<p>• Sizni istalgan savollaringizga javob berib turadigan support xizmatimiz bo’ladi.</p>
 						</div>
 					</div>
 				</div>
 				<div>
-					<div className={'bg-gradient-to-tr from-[#00C9FF] to-[#92FE9D] p-5 flex h-full'}>
+					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl space-y-7 pt-5'}>
-							<p className={'text-2xl'}>3. Bepul Konsultatsiyalarda qatnashasiz</p>
+							<p className={'text-2xl text-[#feebbd]'}>3. Bepul Konsultatsiyalarda qatnashasiz</p>
 							<p>• Har oyda bir marta yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz.а</p>
 							<p>• U yerda siz o’z ishini mutaxassilaridan va yuristlardan savollaringizga javob
 								olishingiz mumkin bo’ladi.</p>
@@ -44,9 +44,9 @@ const Days = () => {
 				</div>
 				
 				<div>
-					<div className={'bg-gradient-to-tr from-[#00C9FF] to-[#92FE9D] p-5 flex h-full'}>
+					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl space-y-7'}>
-							<p className={'text-2xl'}>4. Uy sotib olishda chegirmaga ega bo’lasiz</p>
+							<p className={'text-2xl text-[#feebbd]'}>4. Uy sotib olishda chegirmaga ega bo’lasiz</p>
 							<p>• Yopiq telegram kanalimizda ishonchli qurilish kompaniyalar ro’yxatini berib
 								boramiz.</p>
 							<p>• Agar siz bizni nomimiz orqali ushbu kompaniyalardan uy xarid qiladigan bo’lsangiz, </p>
@@ -56,9 +56,9 @@ const Days = () => {
 				</div>
 				
 				<div>
-					<div className={'bg-gradient-to-tr from-[#00C9FF] to-[#92FE9D] p-5 flex h-full'}>
+					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex h-full'}>
 						<div className={'text-xl space-y-7'}>
-							<p className={'text-2xl'}>5. Bonus darslarga ega bo’lasiz</p>
+							<p className={'text-2xl text-[#feebbd]'}>5. Bonus darslarga ega bo’lasiz</p>
 							
 							<p>• Har oyda bir marta qurilishga oid kuchli spikerlarni chaqiramiz, ma’lumotlar
 								olamiz </p>
@@ -70,9 +70,9 @@ const Days = () => {
 				</div>
 				
 				<div>
-					<div className={'bg-gradient-to-tr from-[#00C9FF] to-[#92FE9D] p-5 flex'}>
+					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
 						<div className={'text-xl space-y-3'}>
-							<p className={'text-2xl'}>6. Qiziqarli o’yinlarda ishtirok etasiz</p>
+							<p className={'text-2xl text-[#feebbd]'}>6. Qiziqarli o’yinlarda ishtirok etasiz</p>
 							<p>• Darslarimizni ko’rganingizdan so’ng, bemalol ishonchli uylar ro’yxatini tuzib olib,
 								o’zingiz xarid qilishingiz mumkin.</p>
 							<p>• Yokida buni bizga ham topshirishingiz mumkin. </p>

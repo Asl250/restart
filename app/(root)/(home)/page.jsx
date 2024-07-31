@@ -4,13 +4,11 @@ import Days from '@/app/(root)/_components/Days'
 import Eyes from '@/app/(root)/_components/Eyes'
 import FAQ from '@/app/(root)/_components/FAQ'
 import Opportunity from '@/app/(root)/_components/Opportunity'
-import Video from '@/app/(root)/_components/Video'
 
 const Home = () => {
 	return (
 		<div className={'overflow-x-hidden overflow-y-hidden'}>
 			<Banner/>
-			{/*<Video/>*/}
 			<AboutMe/>
 			<Opportunity/>
 			<Days/>
