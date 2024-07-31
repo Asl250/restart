@@ -14,10 +14,10 @@ const Days = () => {
 						<div className={'text-xl space-y-10'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Yopiq Telergam kanalga qo’shilasiz</p>
 							<FaTelegramPlane className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
-							<p>• Ushbu kanalga:</p>
-							<p>• Qurilishga oid yangiliklar </p>
-							<p>• Maslahatlar </p>
-							<p>• Va endi katlavan paytidagi ishonchli qurilish <br /> kompaniyalar ro’yxatini tashlab
+							<p> Ushbu kanalga:</p>
+							<p> Qurilishga oid yangiliklar </p>
+							<p> Maslahatlar </p>
+							<p> Va endi katlavan paytidagi ishonchli qurilish <br /> kompaniyalar ro’yxatini tashlab
 								boramiz.</p>
 						</div>
 					</div>
@@ -41,8 +41,8 @@ const Days = () => {
 						<div className={'text-xl space-y-7 pt-5'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Bepul Konsultatsiyalarda qatnashasiz</p>
 							<Video className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
-							<p>• Har oyda bir marta yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz</p>
-							<p>• U yerda siz o’z ishini mutaxassilaridan va yuristlardan savollaringizga javob
+							<p> Har oyda bir marta yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz</p>
+							<p> U yerda siz o’z ishini mutaxassilaridan va yuristlardan savollaringizga javob
 								olishingiz mumkin bo’ladi.</p>
 						</div>
 					</div>
@@ -53,10 +53,10 @@ const Days = () => {
 						<div className={'text-xl space-y-7'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Uy sotib olishda chegirmaga ega bo’lasiz</p>
 							<BadgeDollarSign className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
-							<p>• Yopiq telegram kanalimizda ishonchli qurilish kompaniyalar ro’yxatini berib
+							<p> Yopiq telegram kanalimizda ishonchli qurilish kompaniyalar ro’yxatini berib
 								boramiz.</p>
-							<p>• Agar siz bizni nomimiz orqali ushbu kompaniyalardan uy xarid qiladigan bo’lsangiz, </p>
-							<p>• 1% chegirmani ham qo’lga kiritasiz. </p>
+							<p> Agar siz bizni nomimiz orqali ushbu kompaniyalardan uy xarid qiladigan bo’lsangiz, </p>
+							<p> 1% chegirmani ham qo’lga kiritasiz. </p>
 						</div>
 					</div>
 				</div>
@@ -66,10 +66,10 @@ const Days = () => {
 						<div className={'text-xl space-y-7'}>
 							<p className={'text-2xl text-[#feebbd] text-center'}>Bonus darslarga ega bo’lasiz</p>
 							<BookOpenCheck className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
-							<p>• Har oyda bir marta qurilishga oid kuchli spikerlarni chaqiramiz, ma’lumotlar
+							<p> Har oyda bir marta qurilishga oid kuchli spikerlarni chaqiramiz, ma’lumotlar
 								olamiz </p>
-							<p>• Va ushbu ma’lumotlarni yopiq telegram kanalga yuklab boramiz. </p>
-							<p>• Spikerlardan qanday qilib quruvchilarga aldanib qolmaslik, qanday qilib uylarni to’g’ri
+							<p> Va ushbu ma’lumotlarni yopiq telegram kanalga yuklab boramiz. </p>
+							<p> Spikerlardan qanday qilib quruvchilarga aldanib qolmaslik, qanday qilib uylarni to’g’ri
 								xarid qilish va tezroq sotish bo’yicha qo’shimcha bilimlarga ham ega bo’lasiz.</p>
 						</div>
 					</div>
@@ -78,17 +78,24 @@ const Days = () => {
 				<div>
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 flex'}>
 						<div className={'text-xl space-y-3'}>
-							<p className={'text-2xl text-[#feebbd] text-center  '}>Qiziqarli o’yinlarda ishtirok etasiz</p>
-							<Gamepad2 className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'}/>
-							<p>• Darslarimizni ko’rganingizdan so’ng, bemalol ishonchli uylar ro’yxatini tuzib olib,
+							<p className={'text-2xl text-[#feebbd] text-center  '}>Qiziqarli o’yinlarda ishtirok
+								etasiz</p>
+							<Gamepad2 className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
+							<p> Darslarimizni ko’rganingizdan so’ng, bemalol ishonchli uylar ro’yxatini tuzib olib,
 								o’zingiz xarid qilishingiz mumkin.</p>
-							<p> • Yokida buni bizga ham topshirishingiz mumkin. </p>
-							<p> • Biz sizga o’zimiz hammasini ko’rib beramiz.</p>
-							<p> • Bu xizmatimiz uchun qo’shimcha to’lovlar mavjud.</p>
-							<p> • Darslarni xarid qilib, telegram guruhga qo’shiladigan bo’lsangiz, biz har oy 5ta
+							<br />
+							<p> Yokida buni bizga ham topshirishingiz mumkin. </p>
+							<br />
+							<p> Biz sizga o’zimiz hammasini ko’rib beramiz.</p>
+							<br />
+							<p> Bu xizmatimiz uchun qo’shimcha to’lovlar mavjud.</p>
+							<br />
+							<p> Darslarni xarid qilib, telegram guruhga qo’shiladigan bo’lsangiz, biz har oy 5ta
 								ixtiyor kishini tanlab olamiz </p>
-							<p>• Va ularga uyni ko’rib berish xizmatimizni bepulga taqdim etamiz. </p>
-							<p>• Bular orasida albatta siz ham bo’lishingiz mumkin.</p>
+							<br />
+							<p> Va ularga uyni ko’rib berish xizmatimizni bepulga taqdim etamiz. </p>
+							<br />
+							<p> Bular orasida albatta siz ham bo’lishingiz mumkin.</p>
 						</div>
 					</div>
 				
