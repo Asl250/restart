@@ -24,11 +24,11 @@ const Opportunity = () => {
 					
 					<div className={'space-y-3'}>
 						<p className={'mt-3 font-semibold text-2xl mb-5'}> Qanaqa qilib uylarni to’g’ri sotib olishni o’rganasiz</p>
-						<p className={'max-w-xs text-xl pt-4'}>- Qaysi etajdan uy tanlash kerak?</p>
-						<p className={' max-w-xs text-xl pt-4'}>- Qaysi lokatsiyadan uy olish kerak?</p>
-						<p className={' max-w-xs text-xl pt-4'}>- Quruvchini ishonchliligini qanaqa qilib tekshirsa bo’ladi? </p>
-						<p className={' max-w-xs text-xl pt-4'}>- Qanaqa qilib quruvchi haqida to’liq ma’lumot olsa bo’ladi? </p>
-						<p className={' max-w-xs text-xl pt-4'}>Shuni hammasini bilib olasiz.</p>
+						<p className={'max-w-xs text-lg pt-4'}>- Qaysi etajdan uy tanlash kerak?</p>
+						<p className={' max-w-xs text-lg pt-4'}>- Qaysi lokatsiyadan uy olish kerak?</p>
+						<p className={' max-w-xs text-lg pt-4'}>- Quruvchini ishonchliligini qanaqa qilib tekshirsa bo’ladi? </p>
+						<p className={' max-w-xs text-lg pt-4'}>- Qanaqa qilib quruvchi haqida to’liq ma’lumot olsa bo’ladi? </p>
+						<p className={' max-w-xs text-lg pt-4'}>Shuni hammasini bilib olasiz.</p>
 					</div>
 				
 				
