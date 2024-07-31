@@ -2,8 +2,8 @@ import { Headset } from 'lucide-react';
 
 const Days = () => {
 	return (
-		<div className={'px-[10%] bg-black w-full h-full pb-10 pt-24'}>
-			<h1 className={'m-0 pt-10 text-center text-5xl pb-10'}>
+		<div className={'px-[10%] bg-black w-full h-full pb-10 pt-4'}>
+			<h1 className={'m-0 pt-10 text-center text-4xl  max-md:text-3xl pb-10'}>
 				<span className={'inter text-[#feebbd] font-semibold'}>Bugunoq Video darsliklarni olib, quyidagi bonuslarga ham Bepul ega bo’lasiz</span>
 			</h1>
 			<div className={'grid grid-cols-2 max-md:grid-cols-1 gap-10 mb-0'}>
@@ -24,11 +24,12 @@ const Days = () => {
 				<div>
 					
 					<div className={'border rounded-xl text-white border-[#feebbd] p-5 h-full'}>
+						<Headset className={'w-[10rem] mx-auto h-[10rem] mb-[10%]'} />
+						
 						<div className={'text-xl block'}>
-							<p className={'text-2xl text-[#feebbd]'}>2. 24/7 Savollaringizga Javob olasiz</p>
+							<p className={'text-2xl text-[#feebbd] pb-5'}>2. 24/7 Savollaringizga Javob olasiz</p>
 							<p>• Sizni istalgan savollaringizga javob berib turadigan support xizmatimiz bo’ladi.</p>
 						</div>
-						<Headset className={'w-[10rem] mx-auto h-[10rem] mt-[10%]'} />
 					
 					</div>
 				</div>
