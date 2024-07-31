@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-	images: {
-		domains: ["optim.tildacdn.one"],
-	}
-};
+const nextConfig = {};
 
 export default nextConfig;
