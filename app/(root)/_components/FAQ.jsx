@@ -11,7 +11,7 @@ const FAQ = ( ) => {
 			<h1 className={'w-full text-5xl text-center font-semibold mb-24'}> Eng Ko’p Beriladigan Savollar </h1>
 			<Accordion type="single" collapsible className="w-full">
 				<AccordionItem value="item-1" className={'mb-5 border-[2px] rounded-lg p-3'}>
-					<AccordionTrigger className={'text-2xl max-md:text-lg max-sm:text-sm'}>497,000 so’mdan necha marta to’laymiz?</AccordionTrigger>
+					<AccordionTrigger className={'text-2xl  max-md:text-lg max-sm:text-sm'}>497,000 so’mdan necha marta to’laymiz?</AccordionTrigger>
 					<AccordionContent className={'text-lg max-md:text-sm'}>
 						Bir marta 497,000 so’m to’laysiz va video darsliklarga 6 oylik dostupga ega bo’lasiz.
 						<br/>
