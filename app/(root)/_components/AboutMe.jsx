@@ -62,7 +62,7 @@ const AboutMe = () => {
 			</div>
 			
 			
-			<div className={'mt-24'}>
+			<div className={'mt-7'}>
 				<div className={'text-start'}>
 					
 					<div className={'px-[200px] max-lg:px-[50px]'}>
