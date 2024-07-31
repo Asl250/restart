@@ -5,7 +5,7 @@ const AboutMe = () => {
 		<div className={'my-10'}>
 			
 			<div className="rounded-full">
-				<img src={'/about.jpg'} alt='logo' className='w-[500px] mx-auto my-10' />
+				<img src={'/about.jpg'} alt='logo' className='w-[500px] max-sm:w-[300px] mx-auto my-10' />
 			</div>
 			<div className={'inter font-[18px] text-start'}>
 				<div className={'px-[200px] max-lg:px-[50px]'}>
