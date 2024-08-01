@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const Opportunity = () => {
 	return(
-		<div className={'bg-[#fdf5f2] text-white'}>
+		<div className={'bg-[#fdf5f2] text-white pb-16'}>
 			<div className={'py-5 w-full text-center my-10'}>
 				<h1 className={'text-6xl max-md:text-4xl  leading-[1.5] font-semibold max-lg:w-full max-lg:px-[50px]'}>
 					<span className={'text-black oswald'}>Video Darslik Sizga Qanday Foyda Beradi?</span></h1>
