@@ -3,16 +3,16 @@ import Image from 'next/image'
 const Opportunity = () => {
 	return(
 		<div className={' text-white py-10'}>
-			<div className={'py-10 w-full text-center'}>
+			<div className={'py-5 w-full text-center'}>
 				<h1 className={'text-6xl max-md:text-4xl  leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
 					<span className={'text-black oswald'}>Video Darslik Sizga Qanday Foyda Beradi?</span></h1>
 			</div>
 			
-			<div className={' mt-10 w-[50%] mx-auto max-md:w-[70%] text-black'}>
+			<div className={'max-md:text-start w-[50%] mx-auto max-md:w-full text-black'}>
 				<div className={'p-5'}>
 					<hr className={'w-full'} />
-					<div className={'space-y-3 '}>
-						<p className={'mt-3 font-semibold text-3xl mb-5'}><span className={'text-[#db4034] text-3xl pr-2'}>•</span>Qanday qilib uylarni to’g’ri sotib olishni o’rganasiz</p>
+					<div className={'space-y-3'}>
+						<p className={'mt-3 font-semibold text-3xl mb-5 max-md:text-2xl'}><span className={'text-[#db4034] text-3xl pr-2'}>•</span>Qanday qilib uylarni to’g’ri sotib olishni o’rganasiz</p>
 						<p className={' text-xl pt-4'}>- Qaysi etajdan uy tanlash kerak?</p>
 						<p className={'  text-xl pt-4'}>- Qaysi lokatsiyadan uy olish kerak?</p>
 						<p className={' text-xl pt-4'}>- Quruvchini ishonchliligini qanaqa qilib tekshirsa bo’ladi? </p>
@@ -25,8 +25,8 @@ const Opportunity = () => {
 				
 				<div className={''}>
 					<hr className={'w-full p-px'} />
-					<div className={'space-y-7 text-xl'}>
-						<p className={'mt-3 font-semibold text-3xl mb-5'}><span
+					<div className={'space-y-7 text-xl p-5'}>
+						<p className={'mt-3 font-semibold text-3xl mb-5 max-md:text-2xl'}><span
 							className={'text-[#db4034] text-3xl pr-2'}>•</span>Xujjatlar
 							bilan ishlashni
 							o’rganasiz</p>
@@ -46,8 +46,8 @@ const Opportunity = () => {
 				
 				<div className={''}>
 				<hr className={'w-full p-px'} />
-					<div className={'space-y-7 text-xl'}>
-						<p className={'mt-3 font-semibold text-3xl mb-5 '}><span className={'text-[#db4034] text-3xl pr-2'}>•</span>Shartnoma
+					<div className={'space-y-7 text-xl p-5'}>
+						<p className={'mt-3 font-semibold text-3xl mb-5 max-md:text-2xl'}><span className={'text-[#db4034] text-3xl pr-2'}>•</span>Shartnoma
 							bilan ishlashni
 							o’rganasiz.</p>
 						<p className={' text-xl'}>- Shartnomada qaysi bandlar bo’lishi kerak?  </p>
