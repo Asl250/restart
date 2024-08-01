@@ -10,7 +10,7 @@ import Image from 'next/image'
 const FAQ = ( ) => {
 	return (
 		<div className={'my-[50px] inter'}>
-			<h1 className={'w-full text-4xl text-center font-semibold mb-24'}> Eng Ko’p Beriladigan Savollar </h1>
+			<h1 className={'w-full text-4xl text-center font-semibold mb-14'}> Eng Ko’p Beriladigan Savollar </h1>
 			<Accordion type="single" collapsible className="w-full">
 				<AccordionItem value="item-1"
 				               className={'mb-5 border-[2px] rounded-lg p-3 max-md:mx-5 md:w-[70%] mx-auto max-md:w-[90%]'}>

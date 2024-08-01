@@ -5,7 +5,7 @@ import { FaTelegramPlane } from 'react-icons/fa'
 
 const Days = () => {
 	return (
-		<div className={'pb-[10%]  text-black w-full h-full mt-5'}>
+		<div className={'pb-[10%]  text-black w-full h-full mt-16'}>
 			<div className={'space-y-16 max-md:px-[50px]'}>
 				<div>
 					<div className={''}>
