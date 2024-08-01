@@ -75,19 +75,19 @@ const AboutMe = () => {
 							<br /><br />
 							<span className={'bg-[#faee2b]'}> Uyingizni qurilishi ancha cho’zilib ketishi mumkin.</span>
 							<br /><br />
-							<p>Yoki quruvchi pullaringizni o’zlashtirib, ertaga <b> “bankrot bo’ldik” </b>deb e’lon qilib yuborishi ham hech gap emas. </p>
+							Yoki quruvchi pullaringizni o’zlashtirib, ertaga <b> “bankrot bo’ldik” </b>deb e’lon qilib yuborishi ham hech gap emas.
 							<br /><br />
-							<p>Undan tashqari, agar hujjatlari joyida bo’lmasa bino qurilib bo’lganidan keyin kadastri chiqmasligi mumkin. </p>
+							Undan tashqari, agar hujjatlari joyida bo’lmasa bino qurilib bo’lganidan keyin kadastri chiqmasligi mumkin.
 							<br /><br />
-							<p>Qurilish sifatsiz bo’lib qolishi mumkin…</p>
+							Qurilish sifatsiz bo’lib qolishi mumkin…
 							<br /><br />
-							<p>Bularning barchasi uy sotib olish bo’yicha yetarlicha bilimga ega bo’lmaganlik sabab yuz beradi.</p>
+							Bularning barchasi uy sotib olish bo’yicha yetarlicha bilimga ega bo’lmaganlik sabab yuz beradi.
 							<br /><br />
-							<p>Agar siz ham yaqin orada uy olishni reja qilib yurgan bo’lsangiz…</p>
+							Agar siz ham yaqin orada uy olishni reja qilib yurgan bo’lsangiz…
 							<br /><br />
-							<p>Xavotirga o’rin yo’q. </p>
+							Xavotirga o’rin yo’q.
 							<br /><br />
-							<p>Biz jamoamiz bilan sizga ko’chmas mulk bo’yicha <b> bilimingizni oshirishga yordam beradigan</b>  video darsliklar ishlab chiqdik. </p>
+							Biz jamoamiz bilan sizga ko’chmas mulk bo’yicha <b> bilimingizni oshirishga yordam beradigan</b>  video darsliklar ishlab chiqdik.
 						</p>
 					</div>
 				
