@@ -1,7 +1,7 @@
 import Image from 'next/image'
 const Eyes = () => {
 	return (
-		<div className={'text-black py-24 bg-[#fdf5f2]'}>
+		<div className={'text-black pb-24 pt-5 bg-[#fdf5f2]'}>
 			<div className={'flex justify-center'}>
 				<Image src={'/left.png'} alt={'left'} width={70} height={50}/>
 				<div
