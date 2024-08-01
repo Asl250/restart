@@ -92,7 +92,7 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'text-xl space-y-10'}>
+						<div className={'text-xl space-y-7'}>
 							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
 								#6</p>
 							<p className={'text-6xl max-md:text-3xl font-[1000] text-center'}>Qiziqarli o’yinlarda ishtirok
@@ -101,20 +101,14 @@ const Days = () => {
 							<p className={'w-full text-center max-md:text-start'}> Darslarimizni ko’rganingizdan so’ng, bemalol ishonchli
 								uylar ro’yxatini tuzib olib,
 								o’zingiz xarid qilishingiz mumkin.</p>
-							<br />
 							<p className={'w-full text-center max-md:text-start'}> Yokida buni bizga ham topshirishingiz mumkin. </p>
-							<br />
 							<p className={'w-full text-center max-md:text-start'}> Biz sizga o’zimiz hammasini ko’rib beramiz.</p>
-							<br />
 							<p className={'w-full text-center max-md:text-start'}> Bu xizmatimiz uchun qo’shimcha to’lovlar mavjud.</p>
-							<br />
 							<p className={'w-full text-center max-md:text-start'}> Darslarni xarid qilib, telegram guruhga qo’shiladigan
 								bo’lsangiz, biz har oy 5ta
 								ixtiyor kishini tanlab olamiz </p>
-							<br />
 							<p className={'w-full text-center max-md:text-start'}> Va ularga uyni ko’rib berish xizmatimizni bepulga
 								taqdim etamiz. </p>
-							<br />
 							<p className={'w-full text-center max-md:text-start'}> Bular orasida albatta siz ham bo’lishingiz mumkin.</p>
 						</div>
 					</div>
