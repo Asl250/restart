@@ -10,6 +10,7 @@ const Opportunity = () => {
 			
 			<div className={'max-md:text-start w-[50%] mx-auto max-md:w-full text-black'}>
 				<div className={'p-5'}>
+					
 					<hr className={'w-full'} />
 					<div className={'space-y-3'}>
 						<p className={'mt-3 font-semibold text-3xl mb-5 max-md:text-2xl'}><span className={'text-[#db4034] text-3xl pr-2'}>•</span>Qanday qilib uylarni to’g’ri sotib olishni o’rganasiz</p>
