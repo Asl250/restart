@@ -1,11 +1,11 @@
 import { Button } from '@/components/ui/button'
 import { Check } from 'lucide-react';
+import Image from 'next/image'
 
 
 const Banner = () => {
 	return (
 		<div className={'bg-[#db4034] w-full py-16'}>
-			
 			
 			<div>
 				<div className={'w-full text-center text-white p-3'}>
@@ -14,21 +14,8 @@ const Banner = () => {
 					<Button className={'mt-24 bg-gradient-to-tr from-gray-800 to-gray-700 hover:bg-black w-[50%] py-16 max-md:py-10 xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl max-sm:text-sm uppercase'}>Hoziroq Darslikni olish</Button>
 					<p className={'text-center max-md:text-lg text-2xl mt-7'}>Shoshiling! Joylar soni kam qoldi! </p>
 					<div className={'w-full flex justify-center space-x-1 mt-3'}>
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[15px] h-[22px] bg-[#583c3b]'} />
-						<div className={'w-[17px] h-[22px] bg-[#a2bc1e]'}><Check className={'w-4 pt-[1px] h-5'}/></div>
+						<Image src={'/check.gif'} alt={'d'} width={500} height={100}/>
+					
 					
 					</div>
 				</div>
