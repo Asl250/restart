@@ -75,6 +75,7 @@ const AboutMe = () => {
 							Quruvchini ishonchliligi bilan xujjatlari joyida bo’lmasa…
 							<br/><br/>
 							<span className={'bg-[#faee2b]'}> Uyingizni qurilishi ancha cho’zilib ketishi mumkin.</span>
+						
 						</p>
 					</div>
 				
