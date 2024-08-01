@@ -1,8 +1,9 @@
+import { Button } from '@/components/ui/button'
 import Image from 'next/image'
 
 const AboutMe = () => {
 	return (
-		<div className={'pt-10'}>
+		<div className={'pt-10 w-full'}>
 			<div className={'inter font-[18px] text-start'}>
 				<div className={'px-[200px] max-lg:px-[50px]'}>
 							<p className={'text-lg text-start inter'}>Behzod Umarov ofisidan,
@@ -94,7 +95,13 @@ const AboutMe = () => {
 				
 				</div>
 			</div>
-		
+		 <div className={'w-full items-center'}>
+			 <Button className={'mt-24 hover:bg-[#db4034] italic font-bold bg-[#db4034] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq Darslikni olish</Button>
+			 <p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px]'}>Shoshiling! Joylar soni kam qoldi! </p>
+			 <div className={'w-full flex justify-center space-x-1 mt-3'}>
+				 <Image className={'md:w-[30%] mb-10'} src={'/check.gif'} alt={'d'} width={300} height={100}/>
+			 </div>
+		 </div>
 		</div>
 	)
 }
