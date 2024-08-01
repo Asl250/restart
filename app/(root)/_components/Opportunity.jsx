@@ -4,12 +4,12 @@ const Opportunity = () => {
 	return(
 		<div className={' text-white py-10'}>
 			<div className={'py-5 w-full text-center'}>
-				<h1 className={'text-6xl max-md:text-4xl  leading-[1.5] font-semibold max-lg:w-full max-lg:text-center'}>
+				<h1 className={'text-6xl max-md:text-4xl  leading-[1.5] font-semibold max-lg:w-full max-lg:px-[50px]'}>
 					<span className={'text-black oswald'}>Video Darslik Sizga Qanday Foyda Beradi?</span></h1>
 			</div>
 			
-			<div className={'max-md:text-start w-[50%] mx-auto max-md:w-full text-black'}>
-				<div className={'p-5'}>
+			<div className={'max-md:text-start w-[50%] mx-auto max-md:w-full max-lg:px-[50px] text-black'}>
+				<div className={''}>
 					
 					<hr className={'w-full'} />
 					<div className={'space-y-3'}>
@@ -26,7 +26,7 @@ const Opportunity = () => {
 				
 				<div className={''}>
 					<hr className={'w-full p-px'} />
-					<div className={'space-y-7 text-xl p-5'}>
+					<div className={'space-y-7 text-xl'}>
 						<p className={'mt-3 font-semibold text-3xl mb-5 max-md:text-2xl'}><span
 							className={'text-[#db4034] text-3xl pr-2'}>•</span>Xujjatlar
 							bilan ishlashni
@@ -47,7 +47,7 @@ const Opportunity = () => {
 				
 				<div className={''}>
 				<hr className={'w-full p-px'} />
-					<div className={'space-y-7 text-xl p-5'}>
+					<div className={'space-y-7 text-xl'}>
 						<p className={'mt-3 font-semibold text-3xl mb-5 max-md:text-2xl'}><span className={'text-[#db4034] text-3xl pr-2'}>•</span>Shartnoma
 							bilan ishlashni
 							o’rganasiz.</p>
