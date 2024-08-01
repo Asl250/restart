@@ -3,18 +3,17 @@ import Image from 'next/image'
 const AboutMe = () => {
 	return (
 		<div className={'my-10'}>
-			
-			<div className="">
-				<img src={'/aboutFinal.jpg'} alt='logo' className='w-[400px] max-sm:w-[200px] mx-auto my-10' />
-			</div>
 			<div className={'inter font-[18px] text-start'}>
 				<div className={'px-[200px] max-lg:px-[50px]'}>
-							<p className={'text-lg text-start mb-16'}>Behzod Umarov ofisidan,
+							<p className={'text-lg text-start inter'}>Behzod Umarov ofisidan,
 								<br/>
 								Yunusobod, Toshkent.
 							</p>
-							<p className={'text-lg'}>
+							<hr className={'h-[5px] bg-[#db4034] mb-16 w-[200px] mt-3'}/>
+							<p className={'text-xl'}>
 								Hurmatli yaqin orada uy olishni rejalashtirayotgan do’stim…
+								<br/>
+								<br/>
 								Oxirigi 4 yil ichida 100 dan ortiq uy sotib olmoqchi bo’lganlar bilan gaplashgan bo’lsam…
 								<br/><br/>
 								Ko’pchilikda deyarli bir xil muammoni kuzatardim.
@@ -59,7 +58,7 @@ const AboutMe = () => {
 				<div className={'text-start'}>
 					
 					<div className={'px-[200px] max-lg:px-[50px]'}>
-						<p className={'text-lg'}>
+						<p className={'text-xl'}>
 							<b>NARXIGA!</b>
 							<br/><br/>
 							Naxi qulay bo’lsa tezda dogovor qilib yuborishadi!
