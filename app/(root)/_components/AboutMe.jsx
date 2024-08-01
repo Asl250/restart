@@ -60,21 +60,34 @@ const AboutMe = () => {
 					<div className={'px-[200px] max-lg:px-[50px]'}>
 						<p className={'text-xl'}>
 							<b>NARXIGA!</b>
-							<br/><br/>
+							<br /><br />
 							Naxi qulay bo’lsa tezda dogovor qilib yuborishadi!
-							<br/><br/>
+							<br /><br />
 							Uyni tarixiga…
-							<br/><br/>
+							<br /><br />
 							Kerakli xujjatlariga…
-							<br/><br/>
+							<br /><br />
 							Shartnoma ko’proq quruvchini foydasigami yoki mijozni foydasiga tuzilganmi?
-							<br/><br/>
+							<br /><br />
 							Bu narsalarga e’tibor berishmaydi.
-							<br/><br/>
+							<br /><br />
 							Quruvchini ishonchliligi bilan xujjatlari joyida bo’lmasa…
-							<br/><br/>
+							<br /><br />
 							<span className={'bg-[#faee2b]'}> Uyingizni qurilishi ancha cho’zilib ketishi mumkin.</span>
-						
+							<br /><br />
+							<p>Yoki quruvchi pullaringizni o’zlashtirib, ertaga <b> “bankrot bo’ldik” </b>deb e’lon qilib yuborishi ham hech gap emas. </p>
+							<br /><br />
+							<p>Undan tashqari, agar hujjatlari joyida bo’lmasa bino qurilib bo’lganidan keyin kadastri chiqmasligi mumkin. </p>
+							<br /><br />
+							<p>Qurilish sifatsiz bo’lib qolishi mumkin…</p>
+							<br /><br />
+							<p>Bularning barchasi uy sotib olish bo’yicha yetarlicha bilimga ega bo’lmaganlik sabab yuz beradi.</p>
+							<br /><br />
+							<p>Agar siz ham yaqin orada uy olishni reja qilib yurgan bo’lsangiz…</p>
+							<br /><br />
+							<p>Xavotirga o’rin yo’q. </p>
+							<br /><br />
+							<p>Biz jamoamiz bilan sizga ko’chmas mulk bo’yicha <b> bilimingizni oshirishga yordam beradigan</b>  video darsliklar ishlab chiqdik. </p>
 						</p>
 					</div>
 				
