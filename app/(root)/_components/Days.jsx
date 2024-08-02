@@ -10,7 +10,7 @@ const Days = () => {
 				<div>
 					<div className={'max-md:px-[50px] pb-16'}>
 						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
+							<p className={'text-xl bg-[#e73904] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#1</p>
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
 								kanalga qo’shilasiz</p>
@@ -30,7 +30,7 @@ const Days = () => {
 					<div className={'max-md:px-[50px] pb-16'}>
 						
 						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md font-bold py-3 mx-auto text-center italic mb-10'}>BONUS
+							<p className={'text-xl bg-[#e73904] text-white w-[200px] rounded-md font-bold py-3 mx-auto text-center italic mb-10'}>BONUS
 								#2</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}> 24/7
@@ -45,7 +45,7 @@ const Days = () => {
 					</div>
 				</div>
 				<div>
-					<div className={'pb-16 bg-[#db4034] text-white py-16 max-md:px-[50px]'}>
+					<div className={'pb-16 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
 						<div className={' text-xl space-y-5'}>
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#3</p>
@@ -64,7 +64,7 @@ const Days = () => {
 				
 				<div className={'pb-16'}>
 					<div className={''}>
-						<div className={'space-y-5 bg-[#db4034] text-white py-16 max-md:px-[50px]'}>
+						<div className={'space-y-5 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#4</p>
 							
@@ -87,7 +87,7 @@ const Days = () => {
 				<div>
 					<div className={''}>
 						<div className={'pb-16 text-xl space-y-5 max-md:px-[50px]'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
+							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#5</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Bonus darslarga ega
@@ -111,7 +111,7 @@ const Days = () => {
 				<div>
 					<div className={''}>
 						<div className={'text-xl space-y-5 max-md:px-[50px]'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
+							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#6</p>
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
 								o’yinlarda ishtirok
@@ -143,7 +143,7 @@ const Days = () => {
 			</div>
 			<div className={'w-full items-center'}>
 				<Button
-					className={'mt-24 hover:bg-[#db4034] italic font-bold bg-[#db4034] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
+					className={'mt-24 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
 					Darslikni olish</Button>
 				<p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px] text-black'}>Shoshiling!
 					Joylar soni kam

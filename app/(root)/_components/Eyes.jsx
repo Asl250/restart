@@ -32,7 +32,7 @@ const Eyes = () => {
 			</div>
 			<div className={'w-full items-center'}>
 				<Button
-					className={'mt-10    hover:bg-[#db4034] italic font-bold bg-[#db4034] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
+					className={'mt-10 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
 					Darslikni olish</Button>
 				<p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px] text-black'}>Shoshiling!
 					Joylar soni kam
