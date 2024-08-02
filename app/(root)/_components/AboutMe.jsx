@@ -4,14 +4,14 @@ import Image from 'next/image'
 const AboutMe = () => {
 	return (
 		<div className={''}>
-			<div className={'inter font-[18px] text-start pt-10 max-w-xl max-md:max-lg:px-[50px] w-full xl:mx-[33%] lg:mx-[30%] md:mx-[20%] max-md:mx-0'}>
+			<div className={'inter font-[18px] text-start pt-10 max-w-3xl max-md:max-lg:px-[50px] w-full xl:mx-[25%]  max-lg:mx-0 max-xl:pl-[200px]'}>
 				<div className={''}>
 							<p className={'max-md:text-lg text-2xl max-md:text-start inter md:mx-auto'}>Behzod Umarov ofisidan,
-								<br/>
+								<br className={''}/>
 								Yunusobod, Toshkent.
 							</p>
 							<hr className={'h-[5px] bg-[#db4034] mb-16 w-[200px] mt-3 '}/>
-							<p className={'max-md:text-xl text-2xl'}>
+							<p className={'max-md:text-xl text-3xl'}>
 								Hurmatli yaqin orada uy olishni rejalashtirayotgan do’stim…
 								<br/>
 								<br/>
@@ -55,11 +55,11 @@ const AboutMe = () => {
 					</div>
 			
 			
-			<div className={'mt-7 max-w-xl max-md:max-lg:px-[50px] w-full xl:mx-[33%] lg:mx-[30%] md:mx-[20%] max-md:mx-0'}>
+			<div className={'mt-7 max-w-3xl max-md:max-lg:px-[50px] w-full xl:mx-[25%]  max-lg:mx-0 max-xl:pl-[200px]'}>
 				<div className={'text-start'}>
 					
 					<div className={''}>
-						<p className={'max-md:text-xl text-2xl'}>
+						<p className={'max-md:text-xl text-3xl'}>
 							<b>NARXIGA!</b>
 							<br /><br />
 							Naxi qulay bo’lsa tezda dogovor qilib yuborishadi!
