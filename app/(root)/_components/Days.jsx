@@ -152,7 +152,7 @@ const Days = () => {
 					Joylar soni kam
 					qoldi! </p>
 				<div className={'w-full flex justify-center space-x-1 mt-3'}>
-					<Image className={'md:w-[30%] mb-10'} src={'/check.gif'} alt={'d'} width={300} height={100} />
+					<Image className={'md:w-[30%] mb-10'} src={'/redGif.gif'} alt={'d'} width={300} height={100} />
 				</div>
 			</div>
 		</div>

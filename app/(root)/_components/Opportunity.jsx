@@ -74,7 +74,7 @@ const Opportunity = () => {
 				<p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px] text-black'}>Shoshiling! Joylar soni kam
 					qoldi! </p>
 				<div className={'w-full flex justify-center space-x-1 mt-3'}>
-					<Image className={'md:w-[30%] mb-10'} src={'/check.gif'} alt={'d'} width={300} height={100} />
+					<Image className={'md:w-[30%] mb-10'} src={'/redGif.gif'} alt={'d'} width={300} height={100} />
 				</div>
 			</div>
 		</div>
