@@ -4,14 +4,14 @@ import Image from 'next/image'
 const AboutMe = () => {
 	return (
 		<div className={''}>
-			<div className={'inter font-[18px] text-start pt-10 max-w-xl max-md:max-lg:px-[50px] w-full max-md:mx-0 xl:mx-[35%] lg:mx-[30%] md:mx-[20%]'}>
-				<div className={' max-lg:px-[50px]'}>
-							<p className={'text-lg max-md:text-start inter md:mx-auto'}>Behzod Umarov ofisidan,
+			<div className={'inter font-[18px] text-start pt-10 max-w-xl max-md:max-lg:px-[50px] w-full xl:mx-[33%] lg:mx-[30%] md:mx-[20%] max-md:mx-0'}>
+				<div className={''}>
+							<p className={'max-md:text-lg text-2xl max-md:text-start inter md:mx-auto'}>Behzod Umarov ofisidan,
 								<br/>
 								Yunusobod, Toshkent.
 							</p>
 							<hr className={'h-[5px] bg-[#db4034] mb-16 w-[200px] mt-3 '}/>
-							<p className={'text-xl'}>
+							<p className={'max-md:text-xl text-2xl'}>
 								Hurmatli yaqin orada uy olishni rejalashtirayotgan do’stim…
 								<br/>
 								<br/>
@@ -55,11 +55,11 @@ const AboutMe = () => {
 					</div>
 			
 			
-			<div className={'mt-7 max-w-xl max-md:max-lg:px-[50px] pt-10 w-full max-md:mx-0 xl:mx-[35%] lg:mx-[30%] md:mx-[20%]'}>
+			<div className={'mt-7 max-w-xl max-md:max-lg:px-[50px] w-full xl:mx-[33%] lg:mx-[30%] md:mx-[20%] max-md:mx-0'}>
 				<div className={'text-start'}>
 					
 					<div className={''}>
-						<p className={'text-xl'}>
+						<p className={'max-md:text-xl text-2xl'}>
 							<b>NARXIGA!</b>
 							<br /><br />
 							Naxi qulay bo’lsa tezda dogovor qilib yuborishadi!

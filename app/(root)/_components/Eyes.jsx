@@ -17,7 +17,7 @@ const Eyes = () => {
 			
 			
 			<div className={'mt-14 text-center max-lg:text-start max-lg:px-[50px]'}>
-				<div className={'text-xl rounded-xl inter space-y-7 py-5'}>
+				<div className={'max-md:text-xl text-2xl rounded-xl inter space-y-7 py-5'}>
 					<p className={'inter w-full '}>Ushbu darslarni yozish uchun ko’plab o’z ishini
 						mutaxassilari mehnat qildi</p>
 					<p className={'w-full '}>Va bu darslar sizga yoqishiga men kafolat beraman.</p>

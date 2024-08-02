@@ -9,7 +9,7 @@ const Days = () => {
 			<div className={''}>
 				<div>
 					<div className={'max-md:px-[50px] pb-16'}>
-						<div className={'text-xl space-y-8'}>
+						<div className={'max-md:text-xl text-2xl space-y-8'}>
 							<p className={'text-xl bg-[#e73904] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#1</p>
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
@@ -29,7 +29,7 @@ const Days = () => {
 					
 					<div className={'max-md:px-[50px] pb-16'}>
 						
-						<div className={'text-xl space-y-10'}>
+						<div className={'max-md:text-xl text-2xl space-y-10'}>
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] rounded-md font-bold py-3 mx-auto text-center italic mb-10'}>BONUS
 								# 2
 							</p>
@@ -49,7 +49,7 @@ const Days = () => {
 				</div>
 				<div>
 					<div className={'pb-16 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
-						<div className={' text-xl space-y-5'}>
+						<div className={' max-md:text-xl text-2xl space-y-5'}>
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#3</p>
 							
@@ -67,22 +67,22 @@ const Days = () => {
 				
 				<div className={'pb-16'}>
 					<div className={''}>
-						<div className={'space-y-8 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
-							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
+						<div className={'max-md:text-xl text-2xl space-y-8 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
+							<p className={' bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#4</p>
 							
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib
 								olishda
 								chegirmaga <br className={'lg:block hidden'} /> ega bo’lasiz</p>
 							<BadgeDollarSign className={'w-[8rem] mx-auto h-[8rem] my-5'} />
-							<p className={'w-full  text-xl text-center max-md:text-start'}> Yopiq telegram kanalimizda ishonchli
+							<p className={'w-full  max-md:text-xl text-2xl text-center max-md:text-start'}> Yopiq telegram kanalimizda ishonchli
 								qurilish
 								kompaniyalar ro’yxatini berib
 								boramiz.</p>
-							<p className={'w-full text-xl text-center max-md:text-start'}> Agar siz bizni nomimiz orqali ushbu
+							<p className={'w-full max-md:text-xl text-2xl text-center max-md:text-start'}> Agar siz bizni nomimiz orqali ushbu
 								kompaniyalardan uy
 								xarid qiladigan bo’lsangiz, </p>
-							<p className={'w-full text-xl text-center max-md:text-start'}> 1% chegirmani ham qo’lga
+							<p className={'w-full max-md:text-xl text-2xl text-center max-md:text-start'}> 1% chegirmani ham qo’lga
 								kiritasiz. </p>
 						</div>
 					</div>
@@ -90,8 +90,8 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'pb-16 text-xl space-y-8 max-md:px-[50px]'}>
-							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
+						<div className={'max-md:text-xl text-2xl pb-16 space-y-8 max-md:px-[50px]'}>
+							<p className={' bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#5</p>
 							
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Bonus
@@ -115,7 +115,7 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'text-xl space-y-8 max-md:px-[50px]'}>
+						<div className={'max-md:text-xl text-2xl space-y-8 max-md:px-[50px]'}>
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#6</p>
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
