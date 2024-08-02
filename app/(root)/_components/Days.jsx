@@ -9,7 +9,7 @@ const Days = () => {
 			<div className={''}>
 				<div>
 					<div className={'max-md:px-[50px] pb-16'}>
-						<div className={'text-xl space-y-5'}>
+						<div className={'text-xl space-y-8'}>
 							<p className={'text-xl bg-[#e73904] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#1</p>
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
@@ -67,7 +67,7 @@ const Days = () => {
 				
 				<div className={'pb-16'}>
 					<div className={''}>
-						<div className={'space-y-5 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
+						<div className={'space-y-8 bg-[#e73904] text-white py-16 max-md:px-[50px]'}>
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#4</p>
 							
@@ -89,7 +89,7 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'pb-16 text-xl space-y-5 max-md:px-[50px]'}>
+						<div className={'pb-16 text-xl space-y-8 max-md:px-[50px]'}>
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#5</p>
 							
@@ -113,7 +113,7 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'text-xl space-y-5 max-md:px-[50px]'}>
+						<div className={'text-xl space-y-8 max-md:px-[50px]'}>
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#6</p>
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
