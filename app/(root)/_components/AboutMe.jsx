@@ -3,14 +3,14 @@ import Image from 'next/image'
 
 const AboutMe = () => {
 	return (
-		<div className={'pt-10 w-full'}>
-			<div className={'inter font-[18px] text-start'}>
-				<div className={'px-[200px] max-lg:px-[50px]'}>
-							<p className={'text-lg text-start inter'}>Behzod Umarov ofisidan,
+		<div className={''}>
+			<div className={'inter font-[18px] text-start pt-10 max-w-xl max-md:max-lg:px-[50px] w-full max-md:mx-0 xl:mx-[35%] lg:mx-[30%] md:mx-[20%]'}>
+				<div className={' max-lg:px-[50px]'}>
+							<p className={'text-lg max-md:text-start inter md:mx-auto'}>Behzod Umarov ofisidan,
 								<br/>
 								Yunusobod, Toshkent.
 							</p>
-							<hr className={'h-[5px] bg-[#db4034] mb-16 w-[200px] mt-3'}/>
+							<hr className={'h-[5px] bg-[#db4034] mb-16 w-[200px] mt-3 '}/>
 							<p className={'text-xl'}>
 								Hurmatli yaqin orada uy olishni rejalashtirayotgan do’stim…
 								<br/>
@@ -55,10 +55,10 @@ const AboutMe = () => {
 					</div>
 			
 			
-			<div className={'mt-7'}>
+			<div className={'mt-7 max-w-xl max-md:max-lg:px-[50px] pt-10 w-full max-md:mx-0 xl:mx-[35%] lg:mx-[30%] md:mx-[20%]'}>
 				<div className={'text-start'}>
 					
-					<div className={'px-[200px] max-lg:px-[50px]'}>
+					<div className={''}>
 						<p className={'text-xl'}>
 							<b>NARXIGA!</b>
 							<br /><br />
@@ -91,12 +91,10 @@ const AboutMe = () => {
 							Biz jamoamiz bilan sizga ko’chmas mulk bo’yicha <b> bilimingizni oshirishga yordam beradigan</b>  video darsliklar ishlab chiqdik.
 						</p>
 					</div>
-				
-				
 				</div>
 			</div>
 		 <div className={'w-full items-center'}>
-			 <Button className={'mt-24 hover:bg-[#E73904] italic font-bold bg-[#E73904] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq Darslikni olish</Button>
+			 <Button className={'mt-24 hover:bg-[#E73904] italic font-bold bg-[#E73904] w-[80%] md:w-[50%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq Darslikni olish</Button>
 			 <p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px]'}>Shoshiling! Joylar soni kam qoldi! </p>
 			 <div className={'w-full flex justify-center space-x-1 mt-3'}>
 				 <Image className={'md:w-[30%] mb-10'} src={'/redGif.gif'} alt={'d'} width={300} height={100}/>

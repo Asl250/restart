@@ -13,7 +13,7 @@ const Days = () => {
 							<p className={'text-xl bg-[#e73904] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#1</p>
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
-								kanalga qo’shilasiz</p>
+								<br className={'lg:block hidden'} /> kanalga qo’shilasiz</p>
 							<FaTelegramPlane className={'w-[8rem] mx-auto h-[8rem]'} />
 							<p className={'w-full text-center max-md:text-start m-0'}> Ushbu kanalga:</p>
 							<p className={'w-full text-center max-md:text-start'}>• Qurilishga oid yangiliklar </p>
@@ -35,7 +35,7 @@ const Days = () => {
 							</p>
 							
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center mb-10'}> 24/7
-								Savollaringizga Javob olasiz
+								Savollaringizga <br className={'lg:block hidden'} /> Javob olasiz
 							</p>
 							<Headset className={'w-[8rem] mx-auto h-[8rem] mb-5 mt-20'} />
 							
@@ -54,7 +54,7 @@ const Days = () => {
 								#3</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center uppercase'}>Bepul
-								Konsultatsiyalarda qatnashasiz</p>
+								Konsultatsiyalarda <br className={'lg:block hidden'} /> qatnashasiz</p>
 							<Video className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full text-center max-md:text-start'}> Har oyda bir marta
 								yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz</p>
@@ -71,8 +71,9 @@ const Days = () => {
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#4</p>
 							
-							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib olishda
-								chegirmaga ega bo’lasiz</p>
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib
+								olishda
+								chegirmaga <br className={'lg:block hidden'} /> ega bo’lasiz</p>
 							<BadgeDollarSign className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full  text-xl text-center max-md:text-start'}> Yopiq telegram kanalimizda ishonchli
 								qurilish
@@ -93,7 +94,8 @@ const Days = () => {
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#5</p>
 							
-							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Bonus darslarga ega
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Bonus
+								darslarga <br className={'lg:block hidden'} /> ega
 								bo’lasiz</p>
 							<BookOpenCheck className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full text-center max-md:text-start'}> Har oyda bir marta qurilishga oid
@@ -117,7 +119,7 @@ const Days = () => {
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#6</p>
 							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
-								o’yinlarda ishtirok
+								o’yinlarda <br className={'lg:block hidden'} /> ishtirok
 								etasiz</p>
 							<Gamepad2 className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full text-center max-md:text-start'}> Darslarimizni ko’rganingizdan so’ng,
@@ -146,7 +148,7 @@ const Days = () => {
 			</div>
 			<div className={'w-full items-center'}>
 				<Button
-					className={'mt-24 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[50%]  py-16 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
+					className={'mt-24 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[50%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
 					Darslikni olish</Button>
 				<p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px] text-black'}>Shoshiling!
 					Joylar soni kam
