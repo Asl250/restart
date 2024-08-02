@@ -54,7 +54,7 @@ const Days = () => {
 								#3</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center uppercase'}>Bepul
-								Konsultatsiyalarda <br className={'lg:block hidden'} /> qatnashasiz</p>
+								Konsultatsiyalarda qatnashasiz</p>
 							<Video className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full max-md:text-start'}> Har oyda bir marta
 								yoki ikki marta onlayn konsultatsiyalarni yo’lga qo’yamiz</p>
@@ -71,10 +71,10 @@ const Days = () => {
 							<p className={' bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto italic mb-10 text-center'}>BONUS
 								#4</p>
 							
-							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center pb-5'}>Uy sotib
 								olishda
-								chegirmaga <br className={'lg:block hidden'} /> ega bo’lasiz</p>
-							<BadgeDollarSign className={'w-[8rem] mx-auto h-[8rem] my-5'} />
+								chegirmaga ega bo’lasiz</p>
+							<BadgeDollarSign className={'w-[8rem] mx-auto h-[8rem] '} />
 							<p className={'w-full  max-md:text-xl text-2xl max-md:text-start'}> Yopiq telegram kanalimizda ishonchli
 								qurilish
 								kompaniyalar ro’yxatini berib

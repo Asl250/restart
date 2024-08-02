@@ -4,14 +4,15 @@ const Eyes = () => {
 	return (
 		<div className={'text-black pt-5 bg-[#fdf5f2]'}>
 			<div className={'flex justify-center'}>
-				<Image src={'/left.png'} alt={'left'} width={70} height={50} />
+				<Image src={'/left.png'} alt={'left'} width={100} height={50} />
 				<div
-					className={'pt-10 px-[-10px] font-[800] inter text-7xl max-md:text-5xl max-sm:text-3xl text-center'}>“Ko’zlarimga
+					className={'max-md:pt-10 max-md:px-[-10px] md:mx-5 font-[800] inter text-7xl max-md:text-5xl max-sm:text-3xl text-center'}>“Ko’zlarimga
+					<br />
 					Ishonmayman”
 					<h1 className={' inter max-md:text-sm text-lg text-center mt-4'}>nomli to’lovingizni 100%
 						to’liq holda qaytarib berish kafolati</h1>
 				</div>
-				<Image src={'/right.png'} alt={'left'} width={70} height={50} />
+				<Image src={'/right.png'} alt={'left'} width={100} height={50} />
 			
 			</div>
 			
