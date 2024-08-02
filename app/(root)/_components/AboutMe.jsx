@@ -94,7 +94,7 @@ const AboutMe = () => {
 				</div>
 			</div>
 		 <div className={'w-full items-center'}>
-			 <Button className={'mt-24 hover:bg-[#E73904] italic font-bold bg-[#E73904] w-[80%] md:w-[50%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq Darslikni olish</Button>
+			 <Button className={'mt-24 hover:bg-[#E73904] italic font-bold bg-[#E73904] w-[80%] md:w-[40%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[30%] max-md:mx-[10%]'}>Hoziroq Darslikni olish</Button>
 			 <p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px]'}>Shoshiling! Joylar soni kam qoldi! </p>
 			 <div className={'w-full flex justify-center space-x-1 mt-3'}>
 				 <Image className={'md:w-[30%] mb-10'} src={'/redGif.gif'} alt={'d'} width={300} height={100}/>

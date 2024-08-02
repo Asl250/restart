@@ -6,10 +6,11 @@ const Opportunity = () => {
 		<div className={'bg-[#fdf5f2] text-white'}>
 			<div className={'py-5 w-full text-center my-10'}>
 				<h1 className={'text-6xl max-md:text-4xl  leading-[1.5] font-semibold max-lg:w-full max-lg:px-[50px]'}>
-					<span className={'text-black oswald'}>Video Darslik Sizga <br className={'lg:block hidden'}/> Qanday Foyda Beradi?</span></h1>
+					<span className={'text-black oswald'}>Video Darslik Sizga  Qanday <br
+						className={'lg:block hidden'} /> Foyda Beradi?</span></h1>
 			</div>
 			
-			<div className={'max-md:text-start w-[37%] mx-auto max-md:w-full max-lg:px-[50px] text-black'}>
+			<div className={'max-md:text-start w-[50%] mx-auto max-md:w-full max-lg:px-[50px] text-black'}>
 				<div className={'mb-16'}>
 					
 					<div className={'space-y-3'}>
@@ -68,7 +69,7 @@ const Opportunity = () => {
 			</div>
 			<div className={'w-full items-center'}>
 				<Button
-					className={'mt-24 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[50%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
+					className={'mt-24 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[40%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[30%] max-md:mx-[10%]'}>Hoziroq
 					Darslikni olish</Button>
 				<p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px] text-black'}>Shoshiling! Joylar soni kam
 					qoldi! </p>

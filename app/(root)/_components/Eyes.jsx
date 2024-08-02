@@ -16,9 +16,9 @@ const Eyes = () => {
 			</div>
 			
 			
-			<div className={'mt-14 text-center max-lg:text-start max-lg:px-[50px]'}>
+			<div className={'mt-14 text-center max-lg:text-start max-lg:px-[50px] md:px-[25%] md:text-start'}>
 				<div className={'max-md:text-xl text-2xl rounded-xl inter space-y-7 py-5'}>
-					<p className={'inter w-full '}>Ushbu darslarni yozish uchun ko’plab o’z ishini
+					<p className={'inter w-full'}>Ushbu darslarni yozish uchun ko’plab o’z ishini
 						mutaxassilari mehnat qildi</p>
 					<p className={'w-full '}>Va bu darslar sizga yoqishiga men kafolat beraman.</p>
 					<p className={'w-full '}>Agarda darslarni olib, ko’rib chiqsangiz-u…</p>
@@ -32,7 +32,7 @@ const Eyes = () => {
 			</div>
 			<div className={'w-full items-center'}>
 				<Button
-					className={'mt-10 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[50%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[25%] max-md:mx-[10%]'}>Hoziroq
+					className={'mt-10 hover:bg-[#e73904] italic font-bold bg-[#e73904] w-[80%] md:w-[40%]  py-10 max-md:py-7  xl:text-4xl lg:text-3xl md:text-2xl max-md:text-xl  uppercase mx-auto md:mx-[30%] max-md:mx-[10%]'}>Hoziroq
 					Darslikni olish</Button>
 				<p className={'text-center max-md:text-lg text-2xl mt-7 inter font-[17px] text-black'}>Shoshiling!
 					Joylar soni kam
