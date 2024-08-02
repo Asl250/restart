@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 const Banner = () => {
 	return (
-		<div className={'bg-[#E73904] w-full py-16'}>
+		<div className={'bg-[#E73904] w-full py-16 bg-[url("/banner-bg.jpg")]'}>
 			
 			<div>
 				<div className={'w-full text-center text-white p-3'}>
