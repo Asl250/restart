@@ -12,7 +12,7 @@ const Days = () => {
 						<div className={'text-xl space-y-5'}>
 							<p className={'text-xl bg-[#e73904] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#1</p>
-							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
 								kanalga qo’shilasiz</p>
 							<FaTelegramPlane className={'w-[8rem] mx-auto h-[8rem]'} />
 							<p className={'w-full text-center max-md:text-start m-0'}> Ushbu kanalga:</p>
@@ -29,17 +29,20 @@ const Days = () => {
 					
 					<div className={'max-md:px-[50px] pb-16'}>
 						
-						<div className={'text-xl space-y-5'}>
+						<div className={'text-xl space-y-10'}>
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] rounded-md font-bold py-3 mx-auto text-center italic mb-10'}>BONUS
-								#2</p>
+								# 2
+							</p>
 							
-							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}> 24/7
-								Savollaringizga Javob olasiz</p>
-							<Headset className={'w-[8rem] mx-auto h-[8rem] my-5'} />
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center mb-10'}> 24/7
+								Savollaringizga Javob olasiz
+							</p>
+							<Headset className={'w-[8rem] mx-auto h-[8rem] mb-5 mt-20'} />
 							
 							<p className={'text-center  max-md:text-start'}>Sizni istalgan savollaringizga javob berib
 								turadigan support
-								xizmatimiz bo’ladi.</p>
+								xizmatimiz bo’ladi.
+							</p>
 						</div>
 					
 					</div>
@@ -50,7 +53,7 @@ const Days = () => {
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#3</p>
 							
-							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Bepul
+							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center uppercase'}>Bepul
 								Konsultatsiyalarda qatnashasiz</p>
 							<Video className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full text-center max-md:text-start'}> Har oyda bir marta
@@ -68,7 +71,7 @@ const Days = () => {
 							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#4</p>
 							
-							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib olishda
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib olishda
 								chegirmaga ega bo’lasiz</p>
 							<BadgeDollarSign className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full  text-xl text-center max-md:text-start'}> Yopiq telegram kanalimizda ishonchli
@@ -90,7 +93,7 @@ const Days = () => {
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#5</p>
 							
-							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Bonus darslarga ega
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Bonus darslarga ega
 								bo’lasiz</p>
 							<BookOpenCheck className={'w-[8rem] mx-auto h-[8rem] my-5'} />
 							<p className={'w-full text-center max-md:text-start'}> Har oyda bir marta qurilishga oid
@@ -113,7 +116,7 @@ const Days = () => {
 						<div className={'text-xl space-y-5 max-md:px-[50px]'}>
 							<p className={'text-xl bg-[#e73904] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#6</p>
-							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
+							<p className={'text-6xl uppercase barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
 								o’yinlarda ishtirok
 								etasiz</p>
 							<Gamepad2 className={'w-[8rem] mx-auto h-[8rem] my-5'} />
