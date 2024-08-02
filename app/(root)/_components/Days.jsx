@@ -6,11 +6,11 @@ import { FaTelegramPlane } from 'react-icons/fa'
 const Days = () => {
 	return (
 		<div className={'pb-[10%]  text-black w-full h-full mt-16'}>
-			<div className={'space-y-16 max-md:px-[50px]'}>
+			<div className={''}>
 				<div>
-					<div className={''}>
+					<div className={'max-md:px-[50px] pb-16'}>
 						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
+							<p className={'text-xl bg-[#db4034] font-bold text-white w-[200px] py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#1</p>
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Yopiq Telegram
 								kanalga qo’shilasiz</p>
@@ -27,10 +27,10 @@ const Days = () => {
 				
 				<div>
 					
-					<div className={''}>
+					<div className={'max-md:px-[50px] pb-16'}>
 						
 						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
+							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md font-bold py-3 mx-auto text-center italic mb-10'}>BONUS
 								#2</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}> 24/7
@@ -45,9 +45,9 @@ const Days = () => {
 					</div>
 				</div>
 				<div>
-					<div className={''}>
+					<div className={'pb-16 bg-[#db4034] text-white py-16 max-md:px-[50px]'}>
 						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
+							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#3</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Bepul
@@ -62,10 +62,10 @@ const Days = () => {
 					</div>
 				</div>
 				
-				<div>
+				<div className={'pb-16'}>
 					<div className={''}>
-						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
+						<div className={' bg-[#db4034] text-white py-16 max-md:px-[50px]'}>
+							<p className={'text-xl bg-black text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#4</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Uy sotib olishda
@@ -86,8 +86,8 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
+						<div className={'pb-16 text-xl space-y-5 max-md:px-[50px]'}>
+							<p className={'text-xl bg-[#db4034] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#5</p>
 							
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Bonus darslarga ega
@@ -110,8 +110,8 @@ const Days = () => {
 				
 				<div>
 					<div className={''}>
-						<div className={'text-xl space-y-5'}>
-							<p className={'text-xl bg-[#db4034] text-white w-[200px] rounded-md mx-auto text-center italic'}>BONUS
+						<div className={'text-xl space-y-5 max-md:px-[50px]'}>
+							<p className={'text-xl bg-[#db4034] text-white w-[200px] font-bold py-3 rounded-md mx-auto text-center italic mb-10'}>BONUS
 								#6</p>
 							<p className={'text-6xl barlow max-md:text-3xl font-[1000] text-center'}>Qiziqarli
 								o’yinlarda ishtirok
